@@ -11,3 +11,30 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 </div>
 
+## 2. [BOJ](https://www.acmicpc.net/)
+
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry0558)](https://solved.ac/harry0558)
+
+</div>
+
+<div align="center", class="boj">
+
+| Accomplished | Date | Links | Solved(At the moment) |
+| :--------: | :-----------: | :-----------: | :-----------: |
+| 800 Solved 📈 | 23/08/13 | - | 800 Solved |
+| 🥇 Gold II 🆙 (Current Tier) | 23/08/09  | [Posting](https://blog.naver.com/harry0558/223181417972) | 795 Solved |
+| 🥇 Gold III 🆙 | 23/02/05 | [Posting](https://blog.naver.com/harry0558/223006274400) | 616 Solved |
+| 🥇 Gold IV 🆙 | 23/01/05 | [Posting](https://blog.naver.com/harry0558/222977211082) | 520 Solved |
+| 🥇 Gold V 🆙 | 22/11/22 | [Posting](https://blog.naver.com/harry0558/222935569578) | 386 Solved |
+| Bronze IV ALL-SOLVED 🔚 | 22/11/16 | [Posting](https://blog.naver.com/harry0558/222932053826) | 378 Solved |
+| Bronze V ALL-SOLVED 🔚 | 22/09/?/ | [Posting](https://blog.naver.com/harry0558/222917719130) | ? |
+
+
+</div>
+
+## 3. Algorithms
+
+
