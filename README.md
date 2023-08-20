@@ -11,5 +11,5 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 </div>
 
-## 2. [solved.ac Arena](https://solved.ac/profile/harry0558/arena)
+## 2. [solved.ac Arena](https://solved.ac/profile/harry0558)
 
