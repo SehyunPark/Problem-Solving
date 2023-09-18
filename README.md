@@ -37,6 +37,13 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 </div>
 
-## 3. Algorithms
+## 3. LeetCode
 
+<div align="center", class="boj">
 
+| Accomplished | Date | Links | Solved(At the moment) |
+| :--------: | :-----------: | :-----------: | :-----------: |
+|  |  | - |  |
+</div>
+
+## 4. Algorithms
