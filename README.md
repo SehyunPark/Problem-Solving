@@ -6,6 +6,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 | No. | Name | Date | Result | Solved | Solutions |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| PS005 | [Zero One Algorithm Contest 2023 Open Contest]() | 23/09/22 |  | | |
 | PS004 | [2023 충남대학교 SW-IT Contest Open - Division 1 · Arena #8](https://www.acmicpc.net/contest/view/1120) | 23/09/17 | 71/281<br>Top 25.267% | 5 solved<br>(5/13)| [✅ BOJ 30022 행사 준비](https://sh-avid-learner.tistory.com/245) |
 | PS003 | [제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6](https://www.acmicpc.net/contest/view/1088) | 23/09/08 | 120/431<br>Top 27.842% | 3 solved<br>(3/7) | |
 | PS002 | [2023 KSA Automata Summer Contest · Arena #4](https://www.acmicpc.net/contest/view/1086)  | 23/08/18 | 123/457<br>Top 26.915% | 3 solved<br>(3/10) | [✅ BOJ 29196 소수가 아닌 수 2](https://sh-avid-learner.tistory.com/275) <br> [✅ BOJ 29198 이번에는 C번이 문자열](https://sh-avid-learner.tistory.com/211)|
