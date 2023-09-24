@@ -49,5 +49,3 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 | :--------: | :-----------: | :-----------: | :-----------: |
 |  |  | - |  |
 </div>
-
-## 4. Algorithms
