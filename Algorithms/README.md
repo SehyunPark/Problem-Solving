@@ -17,5 +17,13 @@
 | 🥈 [Greedy Intermediate II](https://sh-avid-learner.tistory.com/297) | 23/08/20 | In Progress | 3 Solved |
 | 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/202 | In Progress | 8 Solved |
 
+</div>
+
+## 4. Brute-Force
+
+<div align="center", class="boj">
+
+| Posting Title | Posting Date | Progress | Solved(At the moment) |
+| :--------: | :-----------: | :-----------: | :-----------: |
 
 </div>
