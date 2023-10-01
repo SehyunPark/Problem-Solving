@@ -1,6 +1,6 @@
 # PS Algorithms
 
-## 4. Brute-Force(A005)
+## 4. Brute-Force(A006)
 
 <div align="center", class="boj">
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 3. Greedy(A004)
+## 3. Greedy(A005)
 
 <div align="center", class="boj">
 
@@ -25,7 +25,7 @@
 
 </div>
 
-## 2. Math(A002) / Combinatorics(A003)
+## 2. Math(A003) / Combinatorics(A004)
 
 <div align="center", class="math/comb">
 
@@ -38,4 +38,14 @@
 
 </div>
 
-## 1. Basics(A001)
+## 1. Basics(A001) / Implementation&Simulation(A002)
+
+<div align="center", class="math/comb">
+
+| Posting Title | Posting Date | Progress | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: |
+
+</div>
+
+
+
