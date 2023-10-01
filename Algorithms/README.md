@@ -1,21 +1,16 @@
 # PS Algorithms
 
-## 1. Basics
+## 4. Brute-Force(A005)
 
-## 2. Math / Combinatorics
-
-<div align="center", class="math/comb">
+<div align="center", class="boj">
 
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Completed ✔️ | Algorithm |
-| 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | 3 Solved |
-| 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | 3 Solved |
-| 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | 4 Solved |
+| [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
 
 </div>
 
-## 3. Greedy
+## 3. Greedy(A004)
 
 <div align="center", class="boj">
 
@@ -30,16 +25,17 @@
 
 </div>
 
-## 4. Brute-Force
+## 2. Math(A002) / Combinatorics(A003)
 
-<div align="center", class="boj">
+<div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
-
-
-
-
+| [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Completed ✔️ | Algorithm |
+| 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | 3 Solved |
+| 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | 3 Solved |
+| 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | 4 Solved |
 
 </div>
+
+## 1. Basics(A001)
