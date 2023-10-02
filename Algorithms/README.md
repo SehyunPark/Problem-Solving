@@ -18,7 +18,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | [Intro](https://sh-avid-learner.tistory.com/175) | 22/09/12 | Completed ✔️ | Algorithm |
 | 🥇 [Greedy Advanced I](https://sh-avid-learner.tistory.com/299) | 23/08/30 | In Progress | 2 Solved |
-| 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4 Solved |
+| 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
 | 🥈 [Greedy Intermediate I](https://sh-avid-learner.tistory.com/211) | 22/12/05 | Completed ✔️ | 20 Solved |
 | 🥈 [Greedy Intermediate II](https://sh-avid-learner.tistory.com/297) | 23/08/20 | In Progress | 3 Solved |
 | 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 8 Solved |
@@ -32,9 +32,9 @@
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Completed ✔️ | Algorithm |
-| 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | 3 Solved |
-| 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | 3 Solved |
-| 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | 4 Solved |
+| 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
+| 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
+| 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
 
 </div>
 
