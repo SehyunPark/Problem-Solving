@@ -7,6 +7,7 @@
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
+| 🥉 [Brute-Force Beginner I](https://sh-avid-learner.tistory.com/188) | 22/10/19 | In Progress | 14 Solved |
 
 </div>
 
