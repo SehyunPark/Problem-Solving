@@ -14,7 +14,15 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 </div>
 
-## 2. [BOJ](https://www.acmicpc.net/)
+## 2. Algorithms
+
+<div align="center", class="algo">
+| Classification | Date | Links | Solved(At the moment) |
+| :--------: | :-----------: | :-----------: | :-----------: |
+|  |  | - |  |
+</div>
+
+## 3. [BOJ](https://www.acmicpc.net/)
 
 <div align="center">
 
@@ -41,11 +49,21 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 </div>
 
-## 3. LeetCode
+## 4. LeetCode
 
 <div align="center", class="boj">
-
 | Accomplished | Date | Links | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: | :-----------: |
 |  |  | - |  |
 </div>
+
+
+
+
+
+
+
+
+
+
+
