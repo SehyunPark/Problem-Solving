@@ -20,7 +20,7 @@
 | [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
 | 🥇 [Brute-Force Advanced I](https://sh-avid-learner.tistory.com/301) | 23/10/06 | In Progress | 1 Solved |
 | 🥈 [Brute-Force Intermediate I](https://sh-avid-learner.tistory.com/206) | 22/11/21 | In Progress | 8 Solved |
-| 🥉 [Brute-Force Beginner I](https://sh-avid-learner.tistory.com/188) | 22/10/19 | In Progress | 14 Solved |
+| 🥉 [Brute-Force Beginner I](https://sh-avid-learner.tistory.com/188) | 22/10/19 | In Progress | 15 Solved |
 
 </div>
 
