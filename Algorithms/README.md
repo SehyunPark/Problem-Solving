@@ -1,5 +1,16 @@
 # PS Algorithms
 
+## 5. Number Theory(A007) / Primality Test(A008)
+
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: |
+| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
+| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
+
+</div>
+
 ## 4. Brute-Force(A006)
 
 <div align="center", class="boj">
@@ -34,7 +45,7 @@
 
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Completed ✔️ | Algorithm |
+| [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Needs to be Reviewed | Algorithm |
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
