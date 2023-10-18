@@ -31,6 +31,8 @@
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
 | [Intro](https://sh-avid-learner.tistory.com/175) | 22/09/12 | Completed ✔️ | Algorithm |
+| [Optimal Page Replacement](https://sh-avid-learner.tistory.com/302) | 23/10/18 | Completed ✔️ | Algorithm |
+| 🥇 [Greedy Upper-Advanced I](https://sh-avid-learner.tistory.com/303) | 23/10/18 | In Progress | 1 Solved |
 | 🥇 [Greedy Advanced I](https://sh-avid-learner.tistory.com/299) | 23/08/30 | In Progress | 2 Solved |
 | 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
 | 🥈 [Greedy Intermediate I](https://sh-avid-learner.tistory.com/211) | 22/12/05 | Completed ✔️ | 20 Solved |
