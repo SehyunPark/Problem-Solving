@@ -60,6 +60,10 @@
 
 | Posting Title | Posting Date | Progress | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: |
+| 🥉 [Basics I](https://sh-avid-learner.tistory.com/150) | 22/07/31 | Completed ✔️ | 50 Solved |
+| 🥉 [Basics II](https://sh-avid-learner.tistory.com/174) | 22/09/08 | Completed ✔️ | 50 Solved |
+| 🥉 [If I](https://sh-avid-learner.tistory.com/155) | 22/08/04 | Completed ✔️ | 30 Solved |
+| 🥉 [For/While I](https://sh-avid-learner.tistory.com/159) | 22/08/17 | Completed ✔️ | 30 Solved |
 
 </div>
 
