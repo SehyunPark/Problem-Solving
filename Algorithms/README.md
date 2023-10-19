@@ -19,7 +19,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
 | 🥇 [Brute-Force Advanced I](https://sh-avid-learner.tistory.com/301) | 23/10/06 | In Progress | 1 Solved |
-| 🥈 [Brute-Force Intermediate I](https://sh-avid-learner.tistory.com/206) | 22/11/21 | In Progress | 8 Solved |
+| 🥈 [Brute-Force Intermediate I](https://sh-avid-learner.tistory.com/206) | 22/11/21 | In Progress | 9 Solved |
 | 🥉 [Brute-Force Beginner I](https://sh-avid-learner.tistory.com/188) | 22/10/19 | In Progress | 15 Solved |
 
 </div>
@@ -37,7 +37,7 @@
 | 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
 | 🥈 [Greedy Intermediate I](https://sh-avid-learner.tistory.com/211) | 22/12/05 | Completed ✔️ | 20 Solved |
 | 🥈 [Greedy Intermediate II](https://sh-avid-learner.tistory.com/297) | 23/08/20 | In Progress | 3 Solved |
-| 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 8 Solved |
+| 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 9 Solved |
 
 </div>
 
@@ -62,8 +62,9 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | 🥉 [Basics I](https://sh-avid-learner.tistory.com/150) | 22/07/31 | Completed ✔️ | 50 Solved |
 | 🥉 [Basics II](https://sh-avid-learner.tistory.com/174) | 22/09/08 | Completed ✔️ | 50 Solved |
-| 🥉 [If I](https://sh-avid-learner.tistory.com/155) | 22/08/04 | Completed ✔️ | 30 Solved |
+| 🥉 [if I](https://sh-avid-learner.tistory.com/155) | 22/08/04 | Completed ✔️ | 30 Solved |
 | 🥉 [For/While I](https://sh-avid-learner.tistory.com/159) | 22/08/17 | Completed ✔️ | 30 Solved |
+| 🥉 [function I](https://sh-avid-learner.tistory.com/157) | 22/08/15 | In Progress | 15 Solved |
 
 </div>
 
