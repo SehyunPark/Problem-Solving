@@ -1,6 +1,6 @@
 # PS Algorithms
 
-## 5. Number Theory(A007) / Primality Test(A008)
+## 6. Number Theory(A009) / Primality Test(A010)
 
 <div align="center", class="boj">
   
@@ -11,7 +11,7 @@
 
 </div>
 
-## 4. Brute-Force(A006)
+## 5. Brute-Force(A008)
 
 <div align="center", class="boj">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## 3. Greedy(A005)
+## 4. Greedy(A007)
 
 <div align="center", class="boj">
 
@@ -40,6 +40,9 @@
 | 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 9 Solved |
 
 </div>
+
+## 3. Geometry(A005)
+
 
 ## 2. Math(A003) / Combinatorics(A004)
 
