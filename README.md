@@ -6,6 +6,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 | No. | Name | Date | Result | Solved | Solutions | (solved.ac Arena Rating) | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| PS007 | 2023 Sogang Programming Contest Open (Master) · Arena #12 | 23/11/12 | 54/163 <br>Top 33.13% | 3 solved<br>(3/8)| | S(1654) | [link](https://www.acmicpc.net/contest/view/1159) |
 | PS006 | 2023 건국대학교 프로그래밍 경진대회 (KUPC) Open Contest · Arena #10 | 23/11/05 | 110/330 <br>Top 33.33% | 6 solved<br>(6/14)| | S(1636) | [link](https://www.acmicpc.net/contest/view/1173) |
 | PS005 | Zero One Algorithm Contest 2023 Open Contest | 23/09/22 | 33/197<br>Top 16.75% | 1 solved<br>(1/12)| | - | [link](https://www.acmicpc.net/contest/view/1124) |
 | PS004 | 2023 충남대학교 SW-IT Contest Open - Division 1 · Arena #8 | 23/09/17 | 71/281<br>Top 25.267% | 5 solved<br>(5/13)|  | S(1731)| [link](https://www.acmicpc.net/contest/view/1120) |
