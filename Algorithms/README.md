@@ -15,9 +15,8 @@
 
 <div align="center", class="boj">
 
-| Posting Title | Posting Date | Progress | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: |
-| [Intro](https://sh-avid-learner.tistory.com/178) | 22/09/21 | Completed ✔️ | Algorithm |
+| Posting Title | Posting Date | Progress | Link | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🥇 [Brute-Force Advanced I](https://sh-avid-learner.tistory.com/301) | 23/10/06 | In Progress | 2 Solved |
 | 🥈 [Brute-Force Upper-Intermediate I](https://sh-avid-learner.tistory.com/304) | 23/10/26 | In Progress | 1 Solved |
 | 🥈 [Brute-Force Intermediate I](https://sh-avid-learner.tistory.com/206) | 22/11/21 | In Progress | 11 Solved |
@@ -62,8 +61,9 @@
 
 <div align="center", class="math/comb">
 
-| Posting Title | Posting Date | Progress | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: |
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Implementation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥉 [Basics I](https://sh-avid-learner.tistory.com/150) | 22/07/31 | Completed ✔️ | 50 Solved |
 | 🥉 [Basics II](https://sh-avid-learner.tistory.com/174) | 22/09/08 | Completed ✔️ | 50 Solved |
 | 🥉 [if I](https://sh-avid-learner.tistory.com/155) | 22/08/04 | Completed ✔️ | 30 Solved |
