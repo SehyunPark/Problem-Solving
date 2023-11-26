@@ -15,12 +15,12 @@
 
 <div align="center", class="boj">
 
-| Posting Title | Posting Date | Progress | Link | Etc. |
+| Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥇 [Brute-Force Advanced I](https://sh-avid-learner.tistory.com/301) | 23/10/06 | In Progress | 2 Solved |
-| 🥈 [Brute-Force Upper-Intermediate I](https://sh-avid-learner.tistory.com/304) | 23/10/26 | In Progress | 1 Solved |
-| 🥈 [Brute-Force Intermediate I](https://sh-avid-learner.tistory.com/206) | 22/11/21 | In Progress | 11 Solved |
-| 🥉 [Brute-Force Beginner I](https://sh-avid-learner.tistory.com/188) | 22/10/19 | In Progress | 16 Solved |
+| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 2 Solved |
+| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 1 Solved |
+| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
+| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 
 </div>
 
