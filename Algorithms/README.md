@@ -1,6 +1,6 @@
 # PS Algorithms
 
-## 6. Number Theory(A009) / Primality Test(A010)
+## 6. Number Theory(A008) / Primality Test(A009)
 
 <div align="center", class="boj">
   
@@ -11,7 +11,7 @@
 
 </div>
 
-## 5. Brute-Force(A008)
+## 5. Brute-Force(A007)
 
 <div align="center", class="boj">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## 4. Greedy(A007)
+## 4. Greedy(A006)
 
 <div align="center", class="boj">
 
@@ -42,7 +42,10 @@
 </div>
 
 ## 3. Geometry(A005)
-
+<div align="center", class="boj">
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+</div>
 
 ## 2. Math(A003) / Combinatorics(A004)
 
