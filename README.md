@@ -43,6 +43,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 | Accomplished | Date | Links | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: | :-----------: |
+| 900 Solved 📈 | 23/12/03 | - | 903 Solved |
 | 800 Solved 📈 | 23/08/13 | - | 800 Solved |
 | 🥇 Gold II 🆙 (Current Tier) | 23/08/09  | [Posting](https://blog.naver.com/harry0558/223181417972) | 795 Solved |
 | 🥇 Gold III 🆙 | 23/02/05 | [Posting](https://blog.naver.com/harry0558/223006274400) | 616 Solved |
