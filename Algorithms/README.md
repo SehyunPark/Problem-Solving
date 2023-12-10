@@ -1,5 +1,16 @@
 # PS Algorithms
 
+## 🌠 BFS&DFS(A010)
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: |
+|  | |  | |
+|  | |  | |
+
+</div>
+
+
 ## 6. Number Theory(A008) / Primality Test(A009)
 
 <div align="center", class="boj">
@@ -11,7 +22,7 @@
 
 </div>
 
-## 5. Brute-Force(A007)
+## 🌠 Brute-Force(A007)
 
 <div align="center", class="boj">
 
