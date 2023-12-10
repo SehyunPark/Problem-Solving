@@ -29,7 +29,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 | A010 | DFS&BFS | | | Solved |
 | A009 | Primality Test | |  | Solved |
 | A008 | Number Theory | | | Solved |
-| A007 | Brute-Force | | [▶️](https://github.com/SehyunPark/PS/tree/main/Algorithms#5-brute-forcea007) | Solved |
+| A007 | Brute-Force | 23/12/10 | Details [▶️](https://github.com/SehyunPark/PS/tree/main/Algorithms#5-brute-forcea007) <br> Review [▶️](https://blog.naver.com/harry0558/223288653626) | 910 Solved |
 | A006 | Greedy | | | Solved |
 | A005 | Geometry | | | Solved |
 | A004 | Combinatorics | | | Solved |
