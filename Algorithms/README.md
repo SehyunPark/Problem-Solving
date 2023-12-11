@@ -3,9 +3,9 @@
 ## 🌠 BFS&DFS(A010)
 <div align="center", class="boj">
   
-| Posting Title | Posting Date | Progress | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: |
-|  | |  | |
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| BFS&DFS Posting | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | |
 |  | |  | |
 
 </div>
