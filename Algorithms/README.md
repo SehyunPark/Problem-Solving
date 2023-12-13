@@ -6,8 +6,8 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | BFS&DFS Posting | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | Algorithm |
-| 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/256) | 7 Solved |
-| 🥈 BFS&DFS Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/255) | 12 Solved |
+| 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/256) | 8 Solved |
+| 🥈 BFS&DFS Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/255) | 15 Solved |
 
 </div>
 
