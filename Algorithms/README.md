@@ -10,7 +10,7 @@
 
 </div>
 
-## 🌠 BFS&DFS(A010)
+## 🔍 BFS&DFS(A010)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
