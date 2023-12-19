@@ -59,15 +59,16 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| Class 3+ ✅ | 23/12/13 | 918 Solved |
 | 900 Solved 📈 | 23/12/03 | 903 Solved |
 | 800 Solved 📈 | 23/08/13 | 800 Solved |
 | 🥇 Gold II 🆙 (Current) | 23/08/09  | 795 Solved |
 | 🥇 Gold III 🆙 | 23/02/05 | 616 Solved |
 | 🥇 Gold IV 🆙 | 23/01/05 | 520 Solved |
 | 🥇 Gold V 🆙 | 22/11/22 | 386 Solved |
-| Bronze IV ALL-SOLVED 🔚 | 22/11/16 | 378 Solved |
+| Bronze IV ALL-SOLVED ⭕ | 22/11/16 | 378 Solved |
+| Bronze V ALL-SOLVED ⭕ | 22/09 | 300 Solved |
 | 🥈 Silver I 🆙 | 22/09 | 210 Solved |
-| Bronze V ALL-SOLVED 🔚 | 22/09 | 300 Solved |
 | 🥈 Silver II 🆙 | 22/08 | 170 Solved |
 | 🥈 Silver III 🆙 | 22/08 | 140 Solved |
 | 🥈 Silver IV 🆙 | 22/08 | 70 Solved |
