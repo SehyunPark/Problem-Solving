@@ -1,6 +1,6 @@
 # PS Algorithms
 
-## 🌳 Tree(A010)
+## 🌳 Tree(A011)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
