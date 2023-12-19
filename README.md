@@ -7,7 +7,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
 
 | No. | Name | Date | Result | Solved | Solutions | (solved.ac Arena Rating) | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| PS011 | 파댕이컵 | 23/12/17 | / <br>Top % <br> [▶️]() | 2 solved<br>(2/8) | | - | [▶️](https://www.acmicpc.net/contest/view/1208) |
+| PS011 | 파댕이컵 | 23/12/17 | 63/314 <br>Top 20.06% <br> [▶️](https://www.acmicpc.net/contest/board/1208) | 2 solved<br>(2/8) | | - | [▶️](https://www.acmicpc.net/contest/view/1208) |
 | PS010 | 가희와 함께 하는 6회 코딩 테스트 | 23/12/03 | 20/143 <br>Top 13.99% <br> [▶️](https://www.acmicpc.net/contest/board/1201) | 5 solved<br>(5/11) | | - | [▶️](https://www.acmicpc.net/contest/view/1201) |
 | PS009 | The 10th Hanyang University Programming Contest (HCPC) Open Contest — Beginner Division (Div. 2) | 23/12/03 | <b>24/211 <br>Top 11.37%</b><br>[▶️](https://scoreboard.solved.ac/?contestId=1204) | 6 solved<br>(6/10)| | S+(1891) | [▶️](https://www.acmicpc.net/contest/view/1204) |
 | PS008 | solved.ac Grand Arena #3 — Division 2 · Arena #13 | 23/11/26 | 134/395 <br> Top 33.92% <br>[▶️](https://scoreboard.solved.ac/?contestId=1198) | 3 solved<br>(3/7)| | S(1633) | [▶️](https://www.acmicpc.net/contest/view/1198) |
