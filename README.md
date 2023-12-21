@@ -27,6 +27,7 @@ Algorithm is fun .. as always .. how about PS then? be better than yesterday
  
 | No. | Classification | Completion Date | Links | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| A012 | Binary Search | | | Solved |
 | A011 | Tree | | | Solved |
 | A010 | DFS&BFS | | | Solved |
 | A009 | Primality Test | |  | Solved |
