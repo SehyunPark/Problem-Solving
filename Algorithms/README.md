@@ -1,5 +1,14 @@
 # PS Algorithms
 
+## 👀 Binary Search(A012)
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+
+</div>
+
+
 ## 🌳 Tree(A011)
 <div align="center", class="boj">
   
