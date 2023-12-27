@@ -30,6 +30,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🌲 Binary Tree Posting | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
+| Diameter of Tree Posting | // |  | [▶️]() | Algorithm |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
 
