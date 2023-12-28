@@ -21,6 +21,7 @@
 | 🥇 Binary Search Advanced I | // |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 3 Solved |
 | 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 4 Solved |
+| 🥇 Coordinate Compression Advanced | 23/12/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/310) | 1 Solved |
 | 🥈 Coordinate Compression Upper-Intermediate | 23/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/243) | 3 Solved |
 
 </div>
