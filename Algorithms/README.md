@@ -17,7 +17,8 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 👀 Binary Search Posting | 22/12/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/213) | Algorithm |
 | Parametric Search Posting | // |  | [▶️]() | Algorithm |
-| Coordinate Compression Posting | // |  | [▶️]() | Algorithm |
+| 🔸 Coordinate Compression Posting | 23/01/24 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/242) | Algorithm |
+| 🥇 Binary Search Advanced I | // |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 3 Solved |
 | 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 4 Solved |
 
