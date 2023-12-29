@@ -18,9 +18,9 @@
 | 👀 Binary Search Posting | 22/12/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/213) | Algorithm |
 | Parametric Search Posting | // |  | [▶️]() | Algorithm |
 | 🔸 Coordinate Compression Posting | 23/01/24 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/242) | Algorithm |
-| 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 1 Solved |
+| 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 2 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 3 Solved |
-| 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 5 Solved |
+| 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 6 Solved |
 | 🥇 Coordinate Compression Advanced | 23/12/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/310) | 2 Solved |
 | 🥈 Coordinate Compression Upper-Intermediate | 23/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/243) | 3 Solved |
 
