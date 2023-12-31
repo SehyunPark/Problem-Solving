@@ -64,10 +64,11 @@
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| 🥇 Gold I 🆙 (Current Tier) | 23/12/31  | 956 Solved |
 | Class 3+ ✅ | 23/12/13 | 918 Solved |
 | 900 Solved 📈 | 23/12/03 | 903 Solved |
 | 800 Solved 📈 | 23/08/13 | 800 Solved |
-| 🥇 Gold II 🆙 (Current) | 23/08/09  | 795 Solved |
+| 🥇 Gold II 🆙 | 23/08/09  | 795 Solved |
 | 🥇 Gold III 🆙 | 23/02/05 | 616 Solved |
 | 🥇 Gold IV 🆙 | 23/01/05 | 520 Solved |
 | 🥇 Gold V 🆙 | 22/11/22 | 386 Solved |
