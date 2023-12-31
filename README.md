@@ -7,7 +7,7 @@
 
 | No. | Name | Date | Result | Solved | Arena Rating | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
-| PS013 | SciOI 2023 Open Contest · Arena #16 | 23/12/30 | / <br>Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=1214) |  solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/1214) |
+| PS013 | SciOI 2023 Open Contest · Arena #16 | 23/12/30 | 139/330 <br>Top 42.12% <br> [▶️](https://scoreboard.solved.ac/?contestId=1214) | 2 solved<br>(2/10) | S(1602) | [▶️](https://www.acmicpc.net/contest/view/1214) |
 | PS012 | 월간 향유회 2023. 12. · Arena #15 | 23/12/24 | 112/327 <br>Top 34.25% <br> [▶️](https://scoreboard.solved.ac/?contestId=1219) | 2 solved<br>(2/10) | S(1613) | [▶️](https://www.acmicpc.net/contest/view/1219) |
 | PS011 | 파댕이컵 | 23/12/17 | 63/314 <br>Top 20.06% <br> [▶️](https://www.acmicpc.net/contest/board/1208) | 2 solved<br>(2/8) | - | [▶️](https://www.acmicpc.net/contest/view/1208) |
 | PS010 | 가희와 함께 하는 6회 코딩 테스트 | 23/12/03 | 20/143 <br>Top 13.99% <br> [▶️](https://www.acmicpc.net/contest/board/1201) | 5 solved<br>(5/11) | - | [▶️](https://www.acmicpc.net/contest/view/1201) |
