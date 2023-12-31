@@ -33,7 +33,7 @@
 | A013 | Data Structure | | | Solved |
 | A012 | Binary Search | | | Solved |
 | A011 | Tree | | | Solved |
-| A010 | DFS&BFS | | | Solved |
+| A010 | DFS&BFS | | Details | Solved |
 | A009 | Primality Test | |  | Solved |
 | A008 | Number Theory | | | Solved |
 | A007 | Brute-Force | 23/12/10 | Details [▶️](https://github.com/SehyunPark/PS/tree/main/Algorithms#5-brute-forcea007) <br> Review [▶️](https://blog.naver.com/harry0558/223288653626) | 910 Solved |
