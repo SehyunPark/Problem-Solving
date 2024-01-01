@@ -6,7 +6,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🛝Dynamic Programming🛝 Posting | 23/01/03 | ~ing | [▶️](https://sh-avid-learner.tistory.com/226) | Algorithm |
-
+| 🥈 Dynamic Programming Upper-Intermediate I | 23/01/03 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/227) | 10 Solved |
 </div>
 
 
