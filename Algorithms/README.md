@@ -1,13 +1,25 @@
 # PS Algorithms
 
+## 🎈 Graph Algorithms (A015)
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 🎊 Dijkstra | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+
+</div>
+
+
+
 ## 🛝 Dynamic Programming (A014)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🛝 Dynamic Programming Posting | 23/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/226) | Algorithm |
-| 📡 Kadane's Algorithm Posting | 24/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/314) | Algorithm |
-| 🍝 Longest Increasing Subsequence Posting | 24/01/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🛝 Dynamic Programming | 23/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/226) | Algorithm |
+| 📡 Kadane's Algorithm | 24/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/314) | Algorithm |
+| 🍝 Longest Increasing Subsequence(LIS)| 24/01/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 DP Advanced I | // | | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/227) | 9 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
@@ -30,9 +42,9 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 👀 Binary Search Posting | 22/12/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/213) | Algorithm |
-| 🔬 Parametric Search Posting | 23/12/31 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/313) | Algorithm |
-| 🔸 Coordinate Compression Posting | 23/01/24 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/242) | Algorithm |
+| 👀 Binary Search | 22/12/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/213) | Algorithm |
+| 🔬 Parametric Search | 23/12/31 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/313) | Algorithm |
+| 🔸 Coordinate Compression | 23/01/24 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/242) | Algorithm |
 | 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 2 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 4 Solved |
 | 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 6 Solved |
@@ -47,20 +59,20 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🌲 Binary Tree Posting | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
-| Diameter of Tree Posting | // |  | [▶️]() | Algorithm |
+| 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
+| Diameter of Tree | // |  | [▶️]() | Algorithm |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
 
 </div>
 
-## 🔍 BFS&DFS(A010)
+## 🔍 Graph Fundamentals (A010)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🔍 BFS&DFS Posting | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | Algorithm |
-| 🥓 Bipartite Graph Posting | 23/12/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/308) | Algorithm |
+| 🔍 BFS&DFS | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | Algorithm |
+| 🥓 Bipartite Graph | 23/12/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/308) | Algorithm |
 | 🥇 BFS&DFS Advanced I | 23/12/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/305) | 9 Solved |
 | 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/256) | 12 Solved |
 | 🥈 BFS&DFS Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/255) | 16 Solved |
