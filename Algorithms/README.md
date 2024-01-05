@@ -7,7 +7,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🛝 Dynamic Programming Posting | 23/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/226) | Algorithm |
 | 📡 Kadane's Algorithm Posting | 24/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/314) | Algorithm |
-| 🍝 Longest Increasing Subsequence Posting | 24/01/05 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🍝 Longest Increasing Subsequence Posting | 24/01/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 DP Advanced I | // | | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/227) | 9 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
