@@ -8,9 +8,11 @@
 | 🛝 Dynamic Programming Posting | 23/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/226) | Algorithm |
 | 📡 Kadane's Algorithm Posting | 24/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/314) | Algorithm |
 | 🍝 Longest Increasing Subsequence Posting | 24/01/05 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-| 🥈 Dynamic Programming Upper-Intermediate I | 23/01/03 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/227) | 9 Solved |
-| 🥈 Dynamic Programming Intermediate I | 22/12/22 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
-| 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 5 Solved |
+| 🥇 DP Advanced I | // | | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥈 DP Upper-Intermediate I | 23/01/03 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/227) | 9 Solved |
+| 🥈 DP Intermediate I | 22/12/22 | ~ing(reviewing) | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
+| 🥇 LIS Upper-Advanced | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
 </div>
 
 
