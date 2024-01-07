@@ -21,7 +21,7 @@
 | 📡 Kadane's Algorithm | 24/01/03 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/314) | Algorithm |
 | 🍝 Longest Increasing Subsequence(LIS) (O(n^2)/O(nlogn))| 24/01/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/317) | Algorithm |
 | 🚦 Longest Common Subsequence(LCS) | // |  |  | Algorithm |
-| 🎒 Knapsack Problem | // |  |  | Algorithm |
+| 🎒 0/1 Knapsack Problem | // |  |  | Algorithm |
 | 🥇 DP Advanced I | // | |  |  Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 10 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
