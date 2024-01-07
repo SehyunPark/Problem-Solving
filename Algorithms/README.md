@@ -24,7 +24,7 @@
 | 🎒 0/1 Knapsack Problem | // |  |  | Algorithm |
 | 🥇 DP Advanced I | // | |  |  Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 10 Solved |
-| 🥈 DP Intermediate I | 22/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/225) | 16 Solved |
+| 🥈 DP Intermediate I | 22/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/225) | 17 Solved |
 | 🥇 LIS Upper-Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 3 Solved |
 | 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
 </div>
