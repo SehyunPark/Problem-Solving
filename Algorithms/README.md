@@ -31,11 +31,13 @@
 </div>
 
 
-## 🗃️ Data Structure - Stack, Queue, Deque, Priority Queue, Set/Map (A013)
+## 🗃️ Data Structures (A013)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
+| 🥪 Stack & Queue & Deque | | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/) | Data Structure |
 
 </div>
 
