@@ -1,4 +1,4 @@
-# PS Algorithms
+# PS Data Structures & Algorithms
 
 ## 🎈 Graph Algorithms (A015)
 <div align="center", class="boj">
