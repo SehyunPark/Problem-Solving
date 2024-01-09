@@ -37,7 +37,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
-| 🍔 Stack & Queue & Deque | 22/09/23 |  | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
+| 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
 
 </div>
 
