@@ -38,6 +38,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
+| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 17 Solved |
 
 </div>
 
