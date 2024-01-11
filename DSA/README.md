@@ -40,7 +40,7 @@
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
 | 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 6 Solved |
-| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 17 Solved |
+| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 18 Solved |
 
 </div>
 
