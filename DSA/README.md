@@ -5,7 +5,9 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/321) | Algorithm |
+| 🥇 Dijkstra's Algorithm Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥇 Dijkstra's Algorithm Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 
 </div>
