@@ -3,15 +3,22 @@
 
 ## 1. Competitions
 
-### 1. Codeforce
+### 1. Codeforces [▶️](https://codeforces.com/profile/sehyun_0x1D)
 
-### 2. BOJ
+ <div align="center", class="contest_codeforces">
+  
+ | No. | Name | Date | Result | Solved |
+ | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+ | PS014 | Codeforces Round 920 (Div.3) | 24/01/15 (Seoul) | / <br> % | solved<br>(/)
+ </div>
+
+### 2. BOJ [▶️](https://www.acmicpc.net/user/harry0558)
 
  <div align="center", class="contest_boj_2024">
   
  | No. | Name | Date | Result | Solved | Arena Rating | Info |
  | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
- | PS014 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | 24/02/03 | / <br>Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=) | solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/) |
+ | PS015 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | 24/02/03 | / <br>Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=) | solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/) |
  </div>
 
 <details>
