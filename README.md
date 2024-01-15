@@ -69,6 +69,7 @@
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| Class 4 ✅ | 24/01/15 | 1003 Solved |
 | 1000 Solved 📈 | 24/01/15 | 1000 Solved |
 | 🥇 Gold I 🆙 (Current Tier) | 23/12/31  | 956 Solved |
 | Class 3+ ✅ | 23/12/13 | 918 Solved |
