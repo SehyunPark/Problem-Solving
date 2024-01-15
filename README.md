@@ -3,6 +3,9 @@
 
 ## 1. Competitions
 
+### 1. Codeforce
+
+### 2. BOJ
 <div align="center", class="contest">
 
 | No. | Name | Date | Result | Solved | Arena Rating | Info |
@@ -29,6 +32,7 @@
  
 | No. | Classification | Completion Date | Links | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| A016 | Backtracking | | | Solved |
 | A015 | Graph Algorithms | | | Solved |
 | A014 | DP | | | Solved |
 | A013 | Data Structure | | | Solved |
@@ -39,10 +43,10 @@
 | A008 | Number Theory | | | Solved |
 | A007 | Brute-Force | 23/12/10 | Details [▶️](https://github.com/SehyunPark/PS/tree/main/Algorithms#5-brute-forcea007) <br> Review [▶️](https://blog.naver.com/harry0558/223288653626) | 910 Solved |
 | A006 | Greedy | | | Solved |
-| A005 | Geometry | | | Solved |
-| A004 | Combinatorics | | | Solved |
-| A003 | Maths | | | Solved |
-| A002 | Implementation & Simulation | | | Solved |
+| A005 | | | | Solved |
+| A004 | | | | Solved |
+| A003 | Maths & Combinatorics & Geometry & Probability/Statistics | | | Solved |
+| A002 | Implementation & Simulation & Recursion | | | Solved |
 | A001 | Basics |  |  | Solved |
 
  
@@ -65,6 +69,7 @@
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| 1000 Solved 📈 | 24/01/15 | 1000 Solved |
 | 🥇 Gold I 🆙 (Current Tier) | 23/12/31  | 956 Solved |
 | Class 3+ ✅ | 23/12/13 | 918 Solved |
 | 900 Solved 📈 | 23/12/03 | 903 Solved |
