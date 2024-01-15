@@ -1,11 +1,12 @@
 # PS Data Structures & Algorithms
 
-## 🔙 Backtracking (A016)
+## 🙃 Backtracking (A016)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🔙 Backtracking | 24/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🙃 Backtracking | 24/ |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🥈 Backtracking Intermediate I | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) | Solved |
 
 </div>
 
