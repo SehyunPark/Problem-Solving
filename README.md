@@ -9,7 +9,7 @@
   
  | No. | Name | Date | Result | Solved |
  | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
- | PS014 | Codeforces Round 920 (Div.3) | 24/01/15 (Seoul) | / <br> % | solved<br>(/)
+ | PS014 | Codeforces Round 920 (Div.3) | 24/01/15 (Seoul) | / <br> % | 2 solved |
  </div>
 
 ### 2. BOJ [▶️](https://www.acmicpc.net/user/harry0558)
