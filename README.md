@@ -7,9 +7,9 @@
 
  <div align="center", class="contest_codeforces">
   
- | No. | Name | Date | Result | Solved |
- | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
- | PS014 | Codeforces Round 920 (Div.3) | 24/01/15 (Seoul) | / <br> % | 2 solved |
+ | No. | Name | Date | Rank | Solved | Rating Change | New Rating |
+ | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+ | PS014 | Codeforces Round 920 (Div.3) | 24/01/15 (Seoul) | 15254/25029 <br> 60.9453% | 2 solved | + 404 | 404 |
  </div>
 
 ### 2. BOJ [▶️](https://www.acmicpc.net/user/harry0558)
