@@ -76,11 +76,10 @@
 ## 3. [Codeforces]()
 
 <div align="center">
-
-[![CodeForces Profile](https://cf.leed.at?id=sehyun_0x1D)](https://codeforces.com/profile/sehyun_0x1D)
+ 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sehyun_0x1D)
 
 </div>
-
 
 ## 4. [BOJ](https://www.acmicpc.net/)
 
