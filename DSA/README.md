@@ -52,7 +52,7 @@
 | 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Stack & Queue & Deque Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 7 Solved |
-| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 18 Solved |
+| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 19 Solved |
 
 </div>
 
