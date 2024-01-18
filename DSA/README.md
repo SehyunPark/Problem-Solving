@@ -6,7 +6,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🙃 Backtracking | 24/01/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/323) | Algorithm |
-| 🥈 Backtracking Intermediate I | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) | Solved |
+| 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 8 Solved |
 
 </div>
 
