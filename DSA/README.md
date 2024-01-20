@@ -110,17 +110,6 @@
 
 </div>
 
-## 6. Number Theory(A008)
-
-<div align="center", class="boj">
-  
-| Posting Title | Posting Date | Progress | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: |
-| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
-| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
-
-</div>
-
 ## 🌠 Brute-Force(A007)
 
 <div align="center", class="boj">
@@ -134,8 +123,7 @@
 
 </div>
 
-## 4. Greedy(A006)
-
+## 5. Greedy(A006)
 <div align="center", class="boj">
 
 | Posting Title | Posting Date | Progress | Etc. |
@@ -151,13 +139,23 @@
 
 </div>
 
-## 3. Geometry(A005)
+## 4. (A005) Math III (Linear Algebra / Calculus / ) 
 <div align="center", class="boj">
+  
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+
 </div>
 
-## 2. Math&Combinatorics(A004)
+## 3. (A004) Math II (Number Theory / Primality Test / Probability & Statistics)
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+
+</div>
+
+## 2. (A003) Math I (Fundamentals / Combinatorics / Geometry)
 
 <div align="center", class="math/comb">
 
@@ -167,21 +165,12 @@
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
+| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
+| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
 
 </div>
 
-## 🔁 Recursion(A003)
-
-<div align="center", class="math/comb">
-
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🔁 Recursion | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-</div>
-
-
-
-## 🤓 Implementation&Simulation(A002)
+## 🤓 (A002) Implementation&Simulatiom / Recursion
 
 <div align="center", class="math/comb">
 
@@ -190,10 +179,11 @@
 | Implementation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 6 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 1 Solved |
+| Recursion | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 
 </div>
 
-## 🖐️ Basics(A001)
+## 🖐️ (A001) Basics
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
