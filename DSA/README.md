@@ -6,22 +6,9 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🙃 Backtracking | 24/01/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/323) | Algorithm |
-| 🥇 Backtracking Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 2 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 7 Solved |
 | 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 9 Solved |
-
-</div>
-
-
-## 🎈 Graph Algorithms (A015)
-<div align="center", class="boj">
-  
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/321) | Algorithm |
-| 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-| 🥇 Graph Algorithms Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 
 </div>
 
@@ -43,8 +30,20 @@
 | 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
 </div>
 
+## 🗃️ Data Structures II (A014)
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
+| Diameter of Tree | // |  | [▶️]() | Algorithm |
+| 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
+| 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
 
-## 🗃️ Data Structures I - Array, Linked List, Stack, Queue, Deque, Priority Queue, Set/Map (A013)
+</div>
+
+
+## 🗃️ Data Structures I (A013)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -75,20 +74,19 @@
 
 </div>
 
-
-## 🌳 Tree(A011)
+## 🔍 Graph II (A010)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
-| Diameter of Tree | // |  | [▶️]() | Algorithm |
-| 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
-| 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
+| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/321) | Algorithm |
+| 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🥇 Graph Algorithms Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 
 </div>
 
-## 🔍 Graph Fundamentals (A010)
+## 🔍 Graph I (A009)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -102,7 +100,7 @@
 
 </div>
 
-## 🪢 Sorting (A009)
+## 🪢 Sorting (A008)
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -139,7 +137,7 @@
 
 </div>
 
-## 4. (A005) Math III (Linear Algebra / Calculus / ) 
+## 3️⃣ Math III (A005) 
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -147,15 +145,17 @@
 
 </div>
 
-## 3. (A004) Math II (Number Theory / Primality Test / Probability & Statistics)
+## 2️⃣ Math II (A004) 
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
+| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
 
 </div>
 
-## 2. (A003) Math I (Fundamentals / Combinatorics / Geometry)
+## 1️⃣ Math I (A003) 
 
 <div align="center", class="math/comb">
 
@@ -165,12 +165,11 @@
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
-| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
-| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
+
 
 </div>
 
-## 🤓 (A002) Implementation&Simulatiom / Recursion
+## 🤓 Implementation&Simulatiom / Recursion (A002)
 
 <div align="center", class="math/comb">
 
@@ -183,7 +182,7 @@
 
 </div>
 
-## 🖐️ (A001) Basics
+## 🖐️ Basics (A001)
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
