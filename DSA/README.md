@@ -52,7 +52,7 @@
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
 | 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Stack & Queue & Deque Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 7 Solved |
+| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 8 Solved |
 | 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/216) | 19 Solved |
 
 </div>
@@ -178,7 +178,7 @@
 | Implementation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 6 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 1 Solved |
-| Recursion | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| Recursion | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 
 </div>
 
