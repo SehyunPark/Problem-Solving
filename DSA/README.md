@@ -170,30 +170,20 @@
 
 </div>
 
-## 🤓 Implementation&Simulatiom / Recursion (A002)
-
+## 🖐️ Basics / Implementation&Simulation / Recursion
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Implementation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
-| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 6 Solved |
-| 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 1 Solved |
-| Recursion | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-
-</div>
-
-## 🖐️ Basics (A001)
-<div align="center", class="math/comb">
-
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥉 Basics I | 22/07/31 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/150) | 50 Solved |
-| 🥉 [Basics II](https://sh-avid-learner.tistory.com/174) | 22/09/08 | Completed ✔️ | 50 Solved |
+| 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
 | 🥉 [if I](https://sh-avid-learner.tistory.com/155) | 22/08/04 | Completed ✔️ | 30 Solved |
 | 🥉 [if II](https://sh-avid-learner.tistory.com/192) | 22/10/28 | Completed ✔️ | 30 Solved |
 | 🥉 [for/while I](https://sh-avid-learner.tistory.com/159) | 22/08/17 | Completed ✔️ | 30 Solved |
 | 🥉 [function I](https://sh-avid-learner.tistory.com/157) | 22/08/15 | In Progress | 15 Solved |
+| Implementation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
+| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 6 Solved |
+| 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 1 Solved |
+| Recursion | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 
 </div>
 
