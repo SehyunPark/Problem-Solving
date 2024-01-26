@@ -99,7 +99,7 @@
 | 🥓 Bipartite Graph | 23/12/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/308) | Algorithm |
 | ➰ Bipartite Matching | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🏅 Bipartite Graph & Matching Expert(Easy) | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 Bipartite Graph & Matching Advanced | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
+| 🥇 Bipartite Graph & Matching Upper-Advanced | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 
 </div>
 
