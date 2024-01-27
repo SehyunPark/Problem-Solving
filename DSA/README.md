@@ -177,9 +177,9 @@
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
 | Implementation&Simulation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥉 Implementation Basics I <br> 🥉 Implementation Basics II | 22/08/04 <br> // | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/155) <br> [▶️](https://sh-avid-learner.tistory.com/155) | 50 Solved <br> Solved |
+| 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
 | 🥉 [function I](https://sh-avid-learner.tistory.com/157) | 22/08/15 | In Progress | 15 Solved |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 6 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 1 Solved |
