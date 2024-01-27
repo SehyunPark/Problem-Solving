@@ -103,7 +103,7 @@
 
 </div>
 
-## 🪢 Sorting (A008)
+## 🪢 Sorting
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -111,20 +111,7 @@
 
 </div>
 
-## 🌠 Brute-Force(A007)
-
-<div align="center", class="boj">
-
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
-| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
-| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
-| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
-
-</div>
-
-## 5. Greedy(A006)
+## 5. Greedy
 <div align="center", class="boj">
 
 | Posting Title | Posting Date | Progress | Etc. |
@@ -140,25 +127,7 @@
 
 </div>
 
-## 3️⃣ Math III (A005) 
-<div align="center", class="boj">
-  
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-
-</div>
-
-## 2️⃣ Math II (A004) 
-<div align="center", class="boj">
-  
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
-| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
-
-</div>
-
-## 1️⃣ Math I (A003) 
+## Math I
 
 <div align="center", class="math/comb">
 
@@ -168,7 +137,21 @@
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
+| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
+| 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
 
+</div>
+
+## 🌠 Brute-Force
+
+<div align="center", class="boj">
+
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
+| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
+| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
+| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 
 </div>
 
