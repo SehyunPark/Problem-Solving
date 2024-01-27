@@ -37,6 +37,8 @@
 
 ## 🏃‍♂️ <i>CP Contests</i>
 
+<br>
+
 | No. | Name | Host | Date | Result | Solved | Rating | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
 | CP01? | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | BOJ |24/02/03 | / <br>Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=) | solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/) |
