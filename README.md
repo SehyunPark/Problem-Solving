@@ -14,6 +14,8 @@
 
 ## 🧙 <i>Data Structures & Algorithms List</i>
 
+### Click HERE [▶️](https://github.com/SehyunPark/PS/tree/main/DSA) to see the Details
+
 </div>
 
 <div align="center", class="algo">
