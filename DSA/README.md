@@ -156,7 +156,7 @@
 
 </div>
 
-## 🖐️ Basics / Implementation&Simulation / Recursion
+## 🖐️ Basics / Implementation&Simulation
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
