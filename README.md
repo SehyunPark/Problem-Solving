@@ -22,16 +22,16 @@
  
 | No. | Classification | First Completion Date | Links |
 | :--------: | :-----------: | :-----------: | :-----------: |
-| A014 | Backtracking | | |
-| A013 | Dynamic Programming | | |
-| A012 | Binary Search | | | Solved |
-| A010~11 | Data Structures I / II | | |
-| A008~9 | Graph I / II | |  |
-| A007 | Greedy | | |
-| A006 | Sorting | | | 
-| A003~5 | Math I / II / III | | | 
+| A010 | Backtracking | | |
+| A009 | Dynamic Programming | | |
+| A008 | Binary Search | | | Solved |
+| A007 | Data Structures I / II | | |
+| A006 | Graph / Recursion| |  |
+| A005 | Greedy | | |
+| A004 | Sorting | | | 
+| A003 | Math | | | 
 | A002 | Brute-Force | 23/12/10 | Details [▶️]() |
-| A001 | Basics / Implementation&Simulation / Recursion |  |  |
+| A001 | Basics / Implementation&Simulation |  |  |
 
 </div>
 
