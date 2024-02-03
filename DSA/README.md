@@ -138,7 +138,7 @@
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
-| [Primality Test](https://sh-avid-learner.tistory.com/290) | 23/08/08 | Needs to be Reviewed | Algorithm |
+| 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
 
 </div>
