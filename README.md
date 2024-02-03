@@ -42,9 +42,9 @@
 | No. | Name | Host | Date | Result | Solved | Rating | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
 | CP018 | Biweekly Contest 123 | LeetCode | 24/02/03 (Seoul) | / <br> Top % |  solved | () | [▶️](https://leetcode.com/contest/biweekly-contest-123/) |
-| CP017 | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | AtCoder | 24/02/03 | / <br> Top % <br> [▶️]() | solved<br>(/) | () | [▶️](https://atcoder.jp/contests/abc339) |
+| CP017 | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | AtCoder | 24/02/03 | 3918/10799 <br> Top % <br> [▶️]() | 3 solved<br>(3/7) | 142(+111) <br> Performance 855 | [▶️](https://atcoder.jp/contests/abc339) |
 | CP016 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | BOJ | 24/02/03 | / <br> Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=) | solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/) |
-| CP015 | AtCoder Beginner Contest 338 | AtCoder | 24/01/27 | / <br>Top % <br> [▶️]() | solved<br>(/) | () | [▶️](https://atcoder.jp/contests/abc338) |
+| CP015 | AtCoder Beginner Contest 338 | AtCoder | 24/01/27 | 5205/9012 <br>Top % <br> [▶️](https://atcoder.jp/contests/abc338/standings?watching=sehyun_0x1D) | 2 solved<br>(/) | 31(+31) <br> Performance 578 | [▶️](https://atcoder.jp/contests/abc338) |
 | CP014 | Codeforces Round 920 (Div.3) | Codeforces | 24/01/15 (Seoul) | 14880/24695 <br> 60.2551% | 2 solved | 405(+405) | [▶️](https://codeforces.com/contest/1921) |
 
 <br>
