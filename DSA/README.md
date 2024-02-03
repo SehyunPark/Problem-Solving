@@ -7,7 +7,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🙃 Backtracking | 24/01/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/323) | Algorithm |
 | 🥇 Backtracking Upper-Advanced I | 24/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/327) | 1 Solved |
-| 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 2 Solved |
+| 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 3 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 8 Solved |
 | 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 9 Solved |
 
