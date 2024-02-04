@@ -24,14 +24,14 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | A010 | Backtracking | | |
 | A009 | Dynamic Programming | | |
-| A008 | Binary Search | | | Solved |
-| A007 | Data Structures I / II | | |
-| A006 | Graph / Recursion| |  |
-| A005 | Greedy | | |
-| A004 | Sorting | | | 
-| A003 | Math | | | 
-| A002 | Brute-Force | 23/12/10 | Details [▶️]() |
-| A001 | Basics / Implementation&Simulation |  |  |
+| A008 | Binary Search | | |  |
+| A007 | Data Structures I/II | | |
+| A006 | Graph I/II | |  |
+| A005 | Sorting | | |
+| A004 | Greedy | | | 
+| A003 | Math | | Details [▶️]() | 
+| A002 | Brute-Force / Recursion |  | Details [▶️]() |
+| A001 | Basics / Implementation&Simulation |  | Details [▶️]() |
 
 </div>
 
@@ -44,7 +44,7 @@
 | CP019 | AtCoder Regular Contest 171 | AtCoder | 24/02/04 | / <br> Top % <br> [▶️]() |  solved<br> (/6) | () <br> Performance | [▶️](https://atcoder.jp/contests/arc171) |
 | CP018 | Biweekly Contest 123 | LeetCode | 24/02/03 (Seoul) | / <br> Top % |  solved | () | [▶️](https://leetcode.com/contest/biweekly-contest-123/) |
 | CP017 | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | AtCoder | 24/02/03 | 3918/13143 <br> Top 29.81% <br> [▶️](https://atcoder.jp/contests/abc339/standings?watching=sehyun_0x1D) | 3 solved<br>(3/7) | 142(+111) <br> Performance 855 | [▶️](https://atcoder.jp/contests/abc339) |
-| CP016 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | BOJ | 24/02/03 | / <br> Top % <br> [▶️](https://scoreboard.solved.ac/?contestId=) | solved<br>(/) | () | [▶️](https://www.acmicpc.net/contest/view/) |
+| CP016 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | BOJ | 24/02/03 | 115/408 <br> Top 28.186% <br> [▶️](https://scoreboard.solved.ac/?contestId=) | 2 solved<br>(2/7) | S(1722) | [▶️](https://www.acmicpc.net/contest/view/1233) |
 | CP015 | AtCoder Beginner Contest 338 | AtCoder | 24/01/27 | 5205/9012 <br>Top 57.756% <br> [▶️](https://atcoder.jp/contests/abc338/standings?watching=sehyun_0x1D) | 2 solved<br>(2/7) | 31(+31) <br> Performance 578 | [▶️](https://atcoder.jp/contests/abc338) |
 | CP014 | Codeforces Round 920 (Div.3) | Codeforces | 24/01/15 (Seoul) | 14880/24695 <br> 60.2551% | 2 solved | 405(+405) | [▶️](https://codeforces.com/contest/1921) |
 
