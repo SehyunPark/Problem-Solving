@@ -83,9 +83,10 @@
 <div align="center">
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sehyun_0x1D)
-&nbsp; [![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sehyun_0x1D)](https://atcoder.jp/users/sehyun_0x1D)
+&nbsp; [![CodeForces Profile](https://cf.leed.at?id=sehyun_0x1D)](https://codeforces.com/profile/sehyun_0x1D)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SehyunPark?ext=contest)
+[![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sehyun_0x1D)](https://atcoder.jp/users/sehyun_0x1D)
+&nbsp; ![Leetcode Stats](https://leetcard.jacoblin.cool/SehyunPark?ext=contest)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry0558)](https://solved.ac/harry0558/)
 &nbsp; [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=harry0558)](https://solved.ac/profile/harry0558/arena)
