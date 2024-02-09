@@ -24,7 +24,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: |
 | A010 | Backtracking | | |
 | A009 | Dynamic Programming | | |
-| A008 | Binary Search | | |  |
+| A008 | Binary Search / Two Pointers | | |  |
 | A007 | Data Structures I/II | | |
 | A006 | Graph I/II | |  |
 | A005 | Sorting | | |
