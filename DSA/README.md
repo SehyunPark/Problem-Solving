@@ -122,7 +122,7 @@
 | 🥇 Greedy Advanced I | 23/08/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/299) | 4 Solved |
 | 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
 | 🥈 Greedy Intermediate I | 22/12/05 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/211) | 20 Solved |
-| 🥈 [Greedy Intermediate II](https://sh-avid-learner.tistory.com/297) | 23/08/20 | In Progress | 3 Solved |
+| 🥈 Greedy Intermediate II | 23/08/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/297) | 4 Solved |
 | 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 9 Solved |
 
 </div>
