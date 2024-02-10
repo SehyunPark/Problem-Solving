@@ -20,18 +20,18 @@
 
 <div align="center", class="algo">
  
-| No. | Classification | First Completion Date | Links |
-| :--------: | :-----------: | :-----------: | :-----------: |
-| A010 | Backtracking | | |
-| A009 | Dynamic Programming | | |
-| A008 | Binary Search / Two Pointers | | |  |
-| A007 | Data Structures I/II | | |
-| A006 | Graph I/II | |  |
-| A005 | Sorting | | |
-| A004 | Greedy | | | 
-| A003 | Math | | Details [▶️]() | 
-| A002 | Brute-Force / Recursion |  | Details [▶️]() |
-| A001 | Basics / Implementation&Simulation |  | Details [▶️]() |
+| No. | Classification | Links |
+| :--------: | :-----------: | :-----------: |
+| A010 | Backtracking | |
+| A009 | Dynamic Programming | |
+| A008 | Binary Search / Two Pointers | |
+| A007 | Data Structures I/II | |
+| A006 | Graph I/II | |
+| A005 | Sorting | |
+| A004 | Greedy | |
+| A003 | Math | Details [▶️]() | 
+| A002 | Brute-Force / Recursion | Details [▶️]() |
+| A001 | Basics / Implementation&Simulation | Details [▶️]() |
 
 </div>
 
@@ -41,7 +41,8 @@
 
 | No. | Name | Host | Date | Result | Solved | Rating | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
-| CP019 | AtCoder Regular Contest 171 | AtCoder | 24/02/04 | / <br> Top % <br> [▶️]() |  solved<br> (/6) | () <br> Performance | [▶️](https://atcoder.jp/contests/arc171) |
+| CP020 | KAJIMA CORPORATION CONTEST 2024 (AtCoder Beginner Contest 340) | AtCoder | 24/02/10 | / <br> Top % <br> [▶️](https://atcoder.jp/contests/abc340/standings?watching=sehyun_0x1D) | 3 solved<br>(3/7) | (+) <br> Performance | [▶️](https://atcoder.jp/contests/abc340) |
+| CP019 | AtCoder Regular Contest 171 | AtCoder | 24/02/04 | / <br> Top % <br> [▶️]() | 1 solved<br> (/6) | () <br> Performance | [▶️](https://atcoder.jp/contests/arc171) |
 | CP018 | Biweekly Contest 123 | LeetCode | 24/02/03 (Seoul) | / <br> Top % |  solved | () | [▶️](https://leetcode.com/contest/biweekly-contest-123/) |
 | CP017 | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | AtCoder | 24/02/03 | 3918/13143 <br> Top 29.81% <br> [▶️](https://atcoder.jp/contests/abc339/standings?watching=sehyun_0x1D) | 3 solved<br>(3/7) | 142(+111) <br> Performance 855 | [▶️](https://atcoder.jp/contests/abc339) |
 | CP016 | solved.ac Grand Arena #4(mirror of Grand Arena Party) — Division 2 · Arena #19 | BOJ | 24/02/03 | 115/408 <br> Top 28.186% <br> [▶️](https://scoreboard.solved.ac/?contestId=) | 2 solved<br>(2/7) | S(1722) | [▶️](https://www.acmicpc.net/contest/view/1233) |
