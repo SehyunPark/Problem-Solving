@@ -38,7 +38,7 @@
 </div>
 
 
-## 👀 Brute-Force & Binary Search & Two Pointers
+## 👀 Brute-Force / Binary Search / Two Pointers
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
