@@ -50,7 +50,7 @@
 </div>
 
 
-## 👀 Binary Search & Two Pointers
+## 👀 Brute-Force & Binary Search & Two Pointers
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -61,6 +61,10 @@
 | 🍡 Two Pointers | 24/02/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/332) | Algorithm |
 | Sliding Window | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | Meet in the Middle | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
+| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
+| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
+| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 2 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 4 Solved |
 | 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 6 Solved |
@@ -90,6 +94,18 @@
 | 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 
 </div>
+
+
+## 💱 Recursion / Divide & Conquer / Power by Divide & Conquer
+<div align="center", class="boj">
+  
+| Posting Title | Posting Date | Progress | Links | Etc. |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+
+</div>
+
+
+
 
 ## 🪢 Sorting
 <div align="center", class="boj">
@@ -129,20 +145,6 @@
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
 | 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
-
-</div>
-
-## 🌠 Brute-Force / Recursion
-
-<div align="center", class="boj">
-
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
-| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
-| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
-| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
-| Recursion | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 
 </div>
 
