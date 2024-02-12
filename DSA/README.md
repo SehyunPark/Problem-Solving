@@ -125,16 +125,16 @@
 
 </div>
 
-## ➕ Math / Combinatorics / Number Theory / Primality Test
+## ➕ Math / Geometry / Combinatorics / Number Theory / Primality Test
 
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Needs to be Reviewed | Algorithm |
-| 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🫂 Prefix Sum | 23// |  | [▶️](https://sh-avid-learner.tistory.com/239) | Algorithm |
+| 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
 | 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
