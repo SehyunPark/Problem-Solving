@@ -149,6 +149,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🖐️ Implementation&Simulation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
+| 🥇 Implementation&Simulation Upper-Advanced I | 24/03/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/335) | 1 Solved |
 | 🥇 Implementation&Simulation Advanced I | 24/01/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/328) | 5 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 8 Solved |
