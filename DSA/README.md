@@ -139,6 +139,7 @@
 | 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
 | 🥉 [Number Theory Beginner I](https://sh-avid-learner.tistory.com/162) | 22/08/21 | In Progress | 1~ Solved |
+| 🥉 Math Beginner I <br> 🥉 Implementation Beginner II  | 22/08/16 <br> // <br> // | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/158) <br> [▶️](https://sh-avid-learner.tistory.com/) <br> [▶️](https://sh-avid-learner.tistory.com/) |  30 Solved <br>  Solved  |
 
 </div>
 
