@@ -142,7 +142,7 @@
 | 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
 | 🥈 Number Theory & Primality Test Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 5 Solved | 
 | 🥈 Number Theory & Primality Test Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
-| 🥉 Number Theory & Primality Test Beginner I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
+| 🥉 Number Theory & Primality Test Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥉 Math Beginner I <br> 🥉 Math Beginner II  | 22/08/16 <br> 22/09/20 <br> // | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/158) <br> [▶️](https://sh-avid-learner.tistory.com/177) <br> [▶️](https://sh-avid-learner.tistory.com/) |  30 Solved <br>  30 Solved  |
 
 </div>
