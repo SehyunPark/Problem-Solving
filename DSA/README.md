@@ -108,7 +108,8 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-
+| 🥭 Selection Sort | 23/07/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/285) | Algorithm |
+| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 9 Solved |
 </div>
 
 ## 🤑 Greedy
