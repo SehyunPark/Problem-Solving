@@ -40,7 +40,7 @@
 </div>
 
 
-## 👀 Brute-Force / Binary Search / Two Pointers
+## 👀 Binary Search / Two Pointers
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -51,10 +51,6 @@
 | 🍡 Two Pointers | 24/02/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/332) | Algorithm |
 | Sliding Window | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | Meet in the Middle | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
-| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
-| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
-| 🥉 Brute-Force Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 2 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 4 Solved |
 | 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 6 Solved |
@@ -99,9 +95,6 @@
 | 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 9 Solved |
 
 </div>
-
-
-
 
 ## 🪢 Sorting
 <div align="center", class="boj">
@@ -152,7 +145,7 @@
 
 </div>
 
-## 🖐️ Basics / Implementation&Simulation
+## 🖐️ Basics / Implementation&Simulation / Brute-Force
 <div align="center", class="math/comb">
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -160,9 +153,13 @@
 | 🖐️ Implementation&Simulation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥇 Implementation&Simulation Upper-Advanced I | 24/03/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/335) | 1 Solved |
 | 🥇 Implementation&Simulation Advanced I | 24/01/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/328) | 5 Solved |
+| 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
+| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 13 Solved |
+| 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 11 Solved |
 | 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 23 Solved |
+| 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥉 Implementation Beginner I <br> 🥉 Implementation Beginner II <br> 🥉 Implementation Beginner III | 22/08/22 <br> 22/10/10 <br> 22/10/28 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/164) <br> [▶️](https://sh-avid-learner.tistory.com/186) <br> [▶️](https://sh-avid-learner.tistory.com/192) |  50 Solved <br> 50 Solved <br>  39 Solved |
 | 🥉 Implementation Basics I <br> 🥉 Implementation Basics II | 22/08/04 <br> 22/08/17 | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/155) <br> [▶️](https://sh-avid-learner.tistory.com/159) | 50 Solved <br> 24 Solved |
 | 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
