@@ -142,7 +142,7 @@
 | 🥉 Number Theory Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 3 Solved |
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 5 Solved |
-| 🥉 Math Upper-Beginner I <br> 🥉 Math Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 15 Solved |
+| 🥉 Math Upper-Beginner I <br> 🥉 Math Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 16 Solved |
 | 🥉 Math Beginner I <br> 🥉 Math Beginner II <br> 🥉 Math Beginner III <br> 🥉 Math Beginner IV | 22/08/16 <br> 22/09/20 <br> 22/11/18 <br> 23/01/16 | Completed ✔️ <br> Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/158) <br> [▶️](https://sh-avid-learner.tistory.com/177) <br> [▶️](https://sh-avid-learner.tistory.com/204) <br> [▶️](https://sh-avid-learner.tistory.com/236) |  30 Solved <br> 30 Solved <br> 30 Solved <br> 22 Solved |
 
 </div>
