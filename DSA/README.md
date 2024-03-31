@@ -130,18 +130,18 @@
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Next Permutation](https://sh-avid-learner.tistory.com/296) | 23/08/16 | Needs to be Reviewed | Algorithm |
+| 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🫂 Prefix Sum | 23// |  | [▶️](https://sh-avid-learner.tistory.com/239) | Algorithm |
 | 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
-| 🥈 [Combinatorics Upper-Intermediate I](https://sh-avid-learner.tistory.com/295) | 23/08/16 | In Progress | ~ Solved |
-| 🥈 [Combinatorics Intermediate I](https://sh-avid-learner.tistory.com/254) | 23/02/16 | In Progress | ~ Solved |
-| 🥉 [Combinatorics Beginner](https://sh-avid-learner.tistory.com/291) | 23/08/09 | In Progress | ~ Solved |
+| 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 3 Solved | 
+| 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 3 Solved | 
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 5 Solved | 
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
 | 🥉 Number Theory Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 3 Solved |
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 5 Solved |
+| 🥉 Combinatorics Beginner I | 23/08/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/291) | 4 Solved |
 | 🥉 Math Upper-Beginner I <br> 🥉 Math Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 16 Solved |
 | 🥉 Math Beginner I <br> 🥉 Math Beginner II <br> 🥉 Math Beginner III <br> 🥉 Math Beginner IV | 22/08/16 <br> 22/09/20 <br> 22/11/18 <br> 23/01/16 | Completed ✔️ <br> Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/158) <br> [▶️](https://sh-avid-learner.tistory.com/177) <br> [▶️](https://sh-avid-learner.tistory.com/204) <br> [▶️](https://sh-avid-learner.tistory.com/236) |  30 Solved <br> 30 Solved <br> 30 Solved <br> 22 Solved |
 
