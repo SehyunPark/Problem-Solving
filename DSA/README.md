@@ -95,6 +95,7 @@
 | 🥈 Recursion Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/215) | 2 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 8 Solved |
 | 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 9 Solved |
+| 🥉 Recursion Upper-Beginner I | 22/09/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/182) | 3 Solved |
 
 </div>
 
