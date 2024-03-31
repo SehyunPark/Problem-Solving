@@ -87,10 +87,12 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 🧭 Recursion | 22/09/27 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/181) | Algorithm |
 | 🙃 Backtracking | 24/01/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/323) | Algorithm |
 |  Power by Divide & Conquer | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Backtracking Upper-Advanced I | 24/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/327) | 1 Solved |
 | 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 3 Solved |
+| 🥈 Recursion Intermediate I | 22/12/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/215) | 2 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 8 Solved |
 | 🥈 Backtracking Intermediate I | 24/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/324) | 9 Solved |
 
