@@ -133,10 +133,10 @@
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
-| 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🫂 Prefix Sum | 23// |  | [▶️](https://sh-avid-learner.tistory.com/239) | Algorithm |
 | 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
+| 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
+| 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 5 Solved | 
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
 | 🥉 Number Theory Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
@@ -144,8 +144,8 @@
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 3 Solved | 
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 6 Solved |
 | 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 3 Solved | 
-| 🥉 Combinatorics Upper-Beginner | 23/08/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/291) | 4 Solved |
 | 🥉 Math Upper-Beginner I <br> 🥉 Math Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 16 Solved |
+| 🥉 Combinatorics Upper-Beginner | 23/08/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/291) | 4 Solved |
 | 🥉 Math Beginner I <br> 🥉 Math Beginner II <br> 🥉 Math Beginner III <br> 🥉 Math Beginner IV | 22/08/16 <br> 22/09/20 <br> 22/11/18 <br> 23/01/16 | Completed ✔️ <br> Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/158) <br> [▶️](https://sh-avid-learner.tistory.com/177) <br> [▶️](https://sh-avid-learner.tistory.com/204) <br> [▶️](https://sh-avid-learner.tistory.com/236) |  30 Solved <br> 30 Solved <br> 30 Solved <br> 22 Solved |
 
 </div>
@@ -166,8 +166,8 @@
 | 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 23 Solved |
 | 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥉 Implementation Beginner I <br> 🥉 Implementation Beginner II <br> 🥉 Implementation Beginner III | 22/08/22 <br> 22/10/10 <br> 22/10/28 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/164) <br> [▶️](https://sh-avid-learner.tistory.com/186) <br> [▶️](https://sh-avid-learner.tistory.com/192) |  50 Solved <br> 50 Solved <br>  39 Solved |
-| 🥉 Implementation Basics I <br> 🥉 Implementation Basics II | 22/08/04 <br> 22/08/17 | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/155) <br> [▶️](https://sh-avid-learner.tistory.com/159) | 50 Solved <br> 24 Solved |
 | 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
+| 🥉 Implementation Basics I <br> 🥉 Implementation Basics II | 22/08/04 <br> 22/08/17 | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/155) <br> [▶️](https://sh-avid-learner.tistory.com/159) | 50 Solved <br> 24 Solved |
 
 </div>
 
