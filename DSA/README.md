@@ -106,6 +106,7 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🥭 Selection Sort | 23/07/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/285) | Algorithm |
 | 🪴 Insertion Sort | 23/07/28 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/288) | Algorithm |
+| Merge Sort | 24/04/04 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Sorting Advanced I | 23/07/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/287) | 5 Solved |
 | 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 4 Solved |
 | 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 9 Solved |
@@ -141,7 +142,7 @@
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
 | 🥉 Number Theory Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 3 Solved |
-| 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 3 Solved | 
+| 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved | 
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 6 Solved |
 | 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 3 Solved | 
 | 🥉 Math Upper-Beginner I <br> 🥉 Math Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 16 Solved |
