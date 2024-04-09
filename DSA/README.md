@@ -30,11 +30,11 @@
 | 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
 | Diameter of Tree | // |  | [▶️]() | Algorithm |
 | 🥇 Stack & Queue & Deque Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 9 Solved |
-| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/216) | 20 Solved |
-| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
-| 🥈 Set & Map Intermediate I | 23/02/15 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/252) | 13 Solved |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
+| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 10 Solved |
+| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
+| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/216) | 20 Solved |
+| 🥈 Set & Map Intermediate I | 23/02/15 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/252) | 13 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
 
 </div>
