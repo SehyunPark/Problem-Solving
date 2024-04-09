@@ -88,6 +88,7 @@
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🧭 Recursion | 22/09/27 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/181) | Algorithm |
+| 🗼 Tower of Hanoi | 24/04/09 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/337) | Algorithm |
 | 🙃 Backtracking | 24/01/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/323) | Algorithm |
 |  Power by Divide & Conquer | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Backtracking Upper-Advanced I | 24/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/327) | 1 Solved |
