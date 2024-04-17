@@ -40,7 +40,7 @@
 </div>
 
 
-## 👀 Binary Search / Coordinate Compression / Two Pointers (Sliding Window + Meet in the Middle)
+## 👀 Binary Search / Two Pointers
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
