@@ -15,7 +15,7 @@
 | 🥇 LIS Upper-Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 3 Solved |
 | 🥇 DP Advanced I | // | |  |  Solved |
 | 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
-| 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 10 Solved |
+| 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 11 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/225) | 20 Solved |
 </div>
 
