@@ -113,7 +113,7 @@
 | 🥇 Sorting Advanced I | 23/07/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/287) | 5 Solved |
 | 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 6 Solved |
 | 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 13 Solved |
-| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 9 Solved |
+| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 8 Solved |
 </div>
 
 ## 🤑 Greedy
