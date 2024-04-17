@@ -109,9 +109,10 @@
 | 🥭 Selection Sort | 23/07/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/285) | Algorithm |
 | 🪴 Insertion Sort | 23/07/28 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/288) | Algorithm |
 | ➕ Merge Sort | 24/04/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/336) | Algorithm |
+| 🥐 Counting Sort | 24/04/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/338) | Algorithm |
 | 🥇 Sorting Advanced I | 23/07/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/287) | 5 Solved |
 | 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 6 Solved |
-| 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 12 Solved |
+| 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 13 Solved |
 | 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 9 Solved |
 </div>
 
