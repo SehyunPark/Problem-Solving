@@ -142,6 +142,7 @@
 | 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
 | 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
+| 🏘️ Euler Sieve | 24/04/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/339) | Algorithm |
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 6 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 4 Solved |
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved | 
