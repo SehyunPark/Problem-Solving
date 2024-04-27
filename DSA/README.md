@@ -11,8 +11,8 @@
 | 🍝 Longest Increasing Subsequence(LIS) (O(n^2)/O(nlogn))| 24/01/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/317) | Algorithm |
 | 🚦 Longest Common Subsequence(LCS) | // |  |  | Algorithm |
 | 🎒 0/1 Knapsack Problem | // |  |  | Algorithm |
-| 🏅 LIS Expert(Easy) | 24/01/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/318) | 1 Solved |
-| 🥇 LIS Upper-Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 3 Solved |
+| 🏅 DP Expert(Easy) I | 24/01/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/318) | 1 Solved |
+| 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 3 Solved |
 | 🥇 DP Advanced I | // | |  |  Solved |
 | 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 11 Solved |
