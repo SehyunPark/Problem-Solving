@@ -12,10 +12,9 @@
 | 🚦 Longest Common Subsequence(LCS) | // |  |  | Algorithm |
 | 🎒 0/1 Knapsack Problem | // |  |  | Algorithm |
 | 🏅 DP Expert(Easy) I | 24/01/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/318) | 1 Solved |
-| 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 3 Solved |
-| 🥇 DP Advanced I | // | |  |  Solved |
-| 🥇 LIS Advanced | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/315) | 6 Solved |
-| 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 11 Solved |
+| 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 8 Solved |
+| 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 3 Solved |
+| 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 15 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/225) | 20 Solved |
 </div>
 
