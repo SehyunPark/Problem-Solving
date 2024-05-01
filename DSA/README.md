@@ -13,7 +13,7 @@
 | 🎒 0/1 Knapsack Problem | // |  |  | Algorithm |
 | 🏅 DP Expert(Easy) I | 24/01/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/318) | 4 Solved |
 | 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 8 Solved |
-| 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 3 Solved |
+| 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 4 Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 15 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/225) | 20 Solved |
 </div>
@@ -147,7 +147,7 @@
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 4 Solved |
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved | 
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
-| 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 7 Solved |
+| 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 8 Solved |
 | 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 3 Solved |
 | 🥉 Number Theory Upper-Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥉 Math & Geometry Upper-Beginner I <br> 🥉 Math & Geometry Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 17 Solved |
