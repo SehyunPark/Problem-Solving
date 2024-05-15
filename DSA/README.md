@@ -168,7 +168,7 @@
 | 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
 | 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 15 Solved |
 | 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 14 Solved |
-| 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 24 Solved |
+| 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 25 Solved |
 | 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥉 Implementation Beginner I <br> 🥉 Implementation Beginner II <br> 🥉 Implementation Beginner III | 22/08/22 <br> 22/10/10 <br> 22/10/28 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/164) <br> [▶️](https://sh-avid-learner.tistory.com/186) <br> [▶️](https://sh-avid-learner.tistory.com/192) |  50 Solved <br> 50 Solved <br>  39 Solved |
 | 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
