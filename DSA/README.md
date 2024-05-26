@@ -15,6 +15,7 @@
 | 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 8 Solved |
 | 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 4 Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 15 Solved |
+| 🥈 DP Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/345) | 1 Solved |
 | 🥈 DP Intermediate I | 22/12/22 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/225) | 20 Solved |
 </div>
 
@@ -32,9 +33,10 @@
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
 | 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 11 Solved |
 | 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
+| 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
+| 🥈 Stack & Queue & Deque Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/346) | 1 Solved |
 | 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/216) | 20 Solved |
 | 🥈 Set & Map Intermediate I | 23/02/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/252) | 13 Solved |
-| 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
 
 </div>
 
@@ -126,8 +128,8 @@
 | 🥇 [Greedy Upper-Advanced I](https://sh-avid-learner.tistory.com/303) | 23/10/18 | In Progress | 1 Solved |
 | 🥇 Greedy Advanced I | 23/08/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/299) | 4 Solved |
 | 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
+| 🥈 Greedy Intermediate II | 23/08/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/297) | 7 Solved |
 | 🥈 Greedy Intermediate I | 22/12/05 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/211) | 20 Solved |
-| 🥈 Greedy Intermediate II | 23/08/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/297) | 4 Solved |
 | 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 9 Solved |
 
 </div>
@@ -149,7 +151,7 @@
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved | 
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 8 Solved |
-| 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 3 Solved |
+| 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 5 Solved |
 | 🥉 Number Theory Upper-Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥉 Math & Geometry Upper-Beginner I <br> 🥉 Math & Geometry Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 19 Solved |
 | 🥉 Combinatorics Upper-Beginner | 23/08/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/291) | 4 Solved |
@@ -168,7 +170,7 @@
 | 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
 | 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
-| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 15 Solved |
+| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 17 Solved |
 | 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 14 Solved |
 | 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 25 Solved |
 | 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
