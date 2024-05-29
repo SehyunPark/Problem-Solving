@@ -57,8 +57,8 @@
 | 🥇 Two Pointers Advanced I | 24/02/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/331) | 9 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 4 Solved |
 | 🥈 Coordinate Compression Upper-Intermediate | 23/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/243) | 3 Solved |
-| 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 7 Solved |
 | 🥈 Two Pointers Upper-Intermediate I | 24/02/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/330) | 5 Solved |
+| 🥈 Binary Search Intermediate I | 22/12/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/214) | 8 Solved |
 
 </div>
 
