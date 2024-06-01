@@ -166,17 +166,17 @@
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | 🖐️ Implementation&Simulation | 22/09/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/178) | Algorithm |
 | 🥇 Implementation&Simulation Upper-Advanced I | 24/03/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/335) | 1 Solved |
-| 🥇 Implementation&Simulation Advanced I | 24/01/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/328) | 5 Solved |
 | 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
-| 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
+| 🥇 Implementation&Simulation Advanced I | 24/01/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/328) | 5 Solved |
 | 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
-| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 17 Solved |
+| 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
 | 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 14 Solved |
-| 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 25 Solved |
+| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 17 Solved |
 | 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
+| 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 25 Solved |
 | 🥉 Implementation Beginner I <br> 🥉 Implementation Beginner II <br> 🥉 Implementation Beginner III | 22/08/22 <br> 22/10/10 <br> 22/10/28 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/164) <br> [▶️](https://sh-avid-learner.tistory.com/186) <br> [▶️](https://sh-avid-learner.tistory.com/192) |  50 Solved <br> 50 Solved <br>  39 Solved |
-| 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
 | 🥉 Implementation Basics I <br> 🥉 Implementation Basics II | 22/08/04 <br> 22/08/17 | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/155) <br> [▶️](https://sh-avid-learner.tistory.com/159) | 50 Solved <br> 24 Solved |
+| 🥉 Basics I / 🥉 Basics II / 🥉 Basics III | 22/07/31 <br> 22/09/08 <br> 22/10/21 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/150) <br> [▶️](https://sh-avid-learner.tistory.com/174) <br> [▶️](https://sh-avid-learner.tistory.com/190) | 50 Solved <br> 50 Solved <br> 40 Solved |
 
 </div>
 
