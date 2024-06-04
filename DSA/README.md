@@ -80,7 +80,7 @@
 | 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
 | 🥇 BFS&DFS Advanced I | 23/12/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/305) | 10 Solved |
 | 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/342) | 16 Solved |
-| 🥈 BFS&DFS Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/255) | 17 Solved |
+| 🥈 BFS&DFS Intermediate I | 23/02/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/255) | 20 Solved |
 </div>
 
 
