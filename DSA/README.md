@@ -147,11 +147,11 @@
 | 🏘️ Euler Sieve | 24/04/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/339) | Algorithm |
 | 🥇 Math & Geometry Advanced I | 24/04/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/340) | 1 Solved |
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 8 Solved |
+| 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 4 Solved |
-| 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved | 
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
-| 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 9 Solved |
 | 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 5 Solved |
+| 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 9 Solved |
 | 🥉 Number Theory Upper-Beginner I | 22/08/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/162) | 15 Solved |
 | 🥉 Combinatorics Upper-Beginner | 23/08/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/291) | 4 Solved |
 | 🥉 Math & Geometry Upper-Beginner I <br> 🥉 Math & Geometry Upper-Beginner II <br> | 22/10/09 <br> 23/04/06 <br> | Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/185) <br> [▶️](https://sh-avid-learner.tistory.com/275) | 30 Solved <br> 19 Solved |
