@@ -35,8 +35,7 @@
 | 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
 | 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 11 Solved |
 | 🥈 Set & Map Intermediate I | 23/02/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/252) | 14 Solved |
-| 🥈 Stack & Queue & Deque Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/346) | 2 Solved |
-| 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/216) | 20 Solved |
+| 🥈 Stack & Queue & Deque Intermediate II <br> 🥈 Stack & Queue & Deque Intermediate I | 24/05/26 <br> 22/12/11 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/346) <br> [▶️](https://sh-avid-learner.tistory.com/216) | 2 Solved <br> 20 Solved |
 
 </div>
 
