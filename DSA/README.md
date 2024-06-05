@@ -15,8 +15,7 @@
 | 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 8 Solved |
 | 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 4 Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 15 Solved |
-| 🥈 DP Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/345) | 1 Solved |
-| 🥈 DP Intermediate I | 22/12/22 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/225) | 20 Solved |
+| 🥈 DP Intermediate II <br> 🥈 DP Intermediate I | 24/05/26 <br> 22/12/22 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/345) <br> [▶️](https://sh-avid-learner.tistory.com/225) | 1 Solved <br> 20 Solved |
 </div>
 
 ## 🗃️ Data Structures
