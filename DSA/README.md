@@ -102,35 +102,26 @@
 
 </div>
 
-## 🪢 Sorting
+## 🤑 Greedy / 🪢 Sorting
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥭 Selection Sort | 23/07/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/285) | Algorithm |
-| 🪴 Insertion Sort | 23/07/28 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/288) | Algorithm |
-| ➕ Merge Sort | 24/04/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/336) | Algorithm |
 | 🥐 Counting Sort | 24/04/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/338) | Algorithm |
+| ➕ Merge Sort | 24/04/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/336) | Algorithm |
+| 🪴 Insertion Sort | 23/07/28 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/288) | Algorithm |
+| 🥭 Selection Sort | 23/07/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/285) | Algorithm |
+| 🐝 Optimal Page Replacement | 23/10/18 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/302) | Algorithm |
+| 🤑 Greedy | 22/09/12 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/175) | Algorithm |
+| 🥇 Greedy Upper-Advanced I | 23/10/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/303) | 1 Solved |
 | 🥇 Sorting Advanced I | 23/07/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/287) | 5 Solved |
-| 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 6 Solved |
-| 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 15 Solved |
-| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 8 Solved |
-</div>
-
-## 🤑 Greedy
-<div align="center", class="boj">
-
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Intro](https://sh-avid-learner.tistory.com/175) | 22/09/12 | Completed ✔️ | Algorithm |
-| [Optimal Page Replacement](https://sh-avid-learner.tistory.com/302) | 23/10/18 | Completed ✔️ | Algorithm |
-| 🥇 [Greedy Upper-Advanced I](https://sh-avid-learner.tistory.com/303) | 23/10/18 | In Progress | 1 Solved |
 | 🥇 Greedy Advanced I | 23/08/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/299) | 4 Solved |
-| 🥈 [Greedy Upper-Intermediate I](https://sh-avid-learner.tistory.com/245) | 23/01/27 | In Progress | 4~ Solved |
-| 🥈 Greedy Intermediate II | 23/08/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/297) | 7 Solved |
-| 🥈 Greedy Intermediate I | 22/12/05 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/211) | 20 Solved |
-| 🥉 [Greedy Beginner I](https://sh-avid-learner.tistory.com/210) | 22/12/02 | In Progress | 9 Solved |
-
+| 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 6 Solved |
+| 🥈 Greedy Upper-Intermediate I | 23/01/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/245) | 4~ Solved |
+| 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 15 Solved |
+| 🥈 Greedy Intermediate II <br> 🥈 Greedy Intermediate I | 23/08/20 <br> 22/12/05 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/297) <br> [▶️](https://sh-avid-learner.tistory.com/211) | 8 Solved <br> 20 Solved |
+| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 8 Solved |
+| 🥉 Greedy Beginner I | 22/12/02 | In Progress | [▶️](https://sh-avid-learner.tistory.com/210) | 9 Solved |
 </div>
 
 ## ➕ Math / Geometry / Combinatorics / Number Theory / Primality Test
