@@ -24,19 +24,19 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
-| 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
-| 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
 | Diameter of Tree | // |  | [▶️]() | Algorithm |
-| 🥇 Stack & Queue & Deque Advanced I | 24/02/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/334) | 1 Solved |
+| 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
+| 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
-| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 11 Solved |
-| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
+| 🥇 Stack & Queue & Deque Advanced I | 24/02/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/334) | 1 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
-| 🥈 Stack & Queue & Deque Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/346) | 1 Solved |
+| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
+| 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 11 Solved |
+| 🥈 Set & Map Intermediate I | 23/02/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/252) | 14 Solved |
+| 🥈 Stack & Queue & Deque Intermediate II | 24/05/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/346) | 2 Solved |
 | 🥈 Stack & Queue & Deque Intermediate I | 22/12/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/216) | 20 Solved |
-| 🥈 Set & Map Intermediate I | 23/02/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/252) | 13 Solved |
 
 </div>
 
