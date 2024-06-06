@@ -32,7 +32,7 @@
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
 | 🥇 Stack & Queue & Deque Advanced I | 24/02/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/334) | 1 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
-| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 2 Solved |
+| 🥈 Set & Map Upper-Intermediate I | 23/08/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/292) | 3 Solved |
 | 🥈 Stack & Queue & Deque Upper-Intermediate I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/230) | 11 Solved |
 | 🥈 Set & Map Intermediate I | 23/02/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/252) | 14 Solved |
 | 🥈 Stack & Queue & Deque Intermediate II <br> 🥈 Stack & Queue & Deque Intermediate I | 24/05/26 <br> 22/12/11 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/346) <br> [▶️](https://sh-avid-learner.tistory.com/216) | 2 Solved <br> 20 Solved |
