@@ -93,6 +93,7 @@
 | 📲 Divide & Conquer | 24/06/08 | Completed ✔️  | [▶️](https://sh-avid-learner.tistory.com/266) | Algorithm |
 | 🗼 Tower of Hanoi | 24/04/09 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/337) | Algorithm |
 | 🧭 Recursion | 22/09/27 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/181) | Algorithm |
+| 🥇 Divide & Conquer Advanced I | 24/06/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/349) | 2 Solved |
 | 🥇 Backtracking Upper-Advanced I | 24/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/327) | 1 Solved |
 | 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 3 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 8 Solved |
