@@ -8,7 +8,7 @@ You can see my study and contest histories.
 Also, feel free to use the pseudocode of algorithms I have uploaded in this repository
 ```
 
- ## <i> Navigations
+ ##  Navigations
 
 | Name | Info |
 | :-----------: | :-----------: |
@@ -18,7 +18,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
  
 <div align="center">
 
-## 🧙 <i>Data Structures & Algorithms List</i>
+## 🧙 Data Structures & Algorithms List
 
 ### Click HERE [▶️](https://github.com/SehyunPark/PS/tree/main/DSA) to see the Details
 
@@ -41,7 +41,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 
 
 
-## 🏃‍♂️ <i>Coding Competitions</i>
+## 🏃‍♂️ Coding Competitions
 
 | Site | Rating | Level | Numbers of Matches | Profile Link |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -96,7 +96,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 
 -->
 
-## 👨‍💻 <i> My Handles </i>
+## 👨‍💻 My Handles
 
 <div align="center">
 
