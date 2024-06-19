@@ -13,7 +13,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | Name | Info |
 | :-----------: | :-----------: |
 | 🧙 Data Structures & Algorithms List | - |
-| 🏃‍♂️ CP Contests | 14 Contests Participated |
+| 🏃‍♂️ Coding Competitions | 22 Contests Participated |
 | 👨‍💻 My Handles | Codeforces [▶️](https://codeforces.com/profile/sehyun_0x1D) / Atcoder [▶️](https://atcoder.jp/users/sehyun_0x1D) / Leetcode [▶️](https://leetcode.com/SehyunPark/) <br> BOJ [▶️](https://www.acmicpc.net/user/harry0558) / solved.ac [▶️](https://solved.ac/profile/harry0558) / solved.ac Arena [▶️](https://solved.ac/profile/harry0558/arena)|
  
 <div align="center">
@@ -30,19 +30,31 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | :--------: | :-----------: | :-----------: |
 | A009 | Dynamic Programming | |
 | A008 | Data Structures | |
-| A007 | Brute-Force / Binary Search / Two Pointers | |
+| A007 | Binary Search <br> Two Pointers | |
 | A006 | Graph | |
-| A005 | Recursion / Divide & Conquer / Backtracking | |
-| A004 | Sorting | |
-| A003 | Greedy | |
-| A002 | Math / Combinatorics / Number Theory / Primality Test | Details [▶️]() | 
-| A001 | Basics / Implementation&Simulation | Details [▶️]() |
+| A004 | Recursion <br> Divide & Conquer <br> Backtracking | |
+| A003 | Greedy <br> Sorting | |
+| A002 | Math & Geometry <br> Combinatorics <br> Number Theory & Primality Test | Details [▶️]() | 
+| A001 | Basics <br> Implementation&Simulation <br> Brute-Force <br> Regular Expression | Details [▶️](https://github.com/SehyunPark/Problem-Solving/tree/main/DSA#%EF%B8%8F-basics--implementationsimulation--brute-force--regular-expression) |
 
 </div>
 
-## 🏃‍♂️ <i>CP Contests</i>
+
+
+## 🏃‍♂️ <i>Coding Competitions</i>
+
+| Site | Rating | Level | Numbers of Matches | Profile Link |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Codeforces | 1021 | Newbie | 3 | [▶️](https://codeforces.com/profile/sehyun_0x1D) |
+| Atcoder | 564 | 8 Kyu| 7 | [▶️](https://atcoder.jp/users/sehyun_0x1D) |
+| LeetCode | x | - | None | - |
+| solved.ac | 1639 | S | 12 | [▶️](https://solved.ac/profile/harry0558/arena) |
+
+
 
 <br>
+
+<!--
 
 | No. | Name | Host | Date | Result | Solved | Rating | Info |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:  | :-----------: |
@@ -82,6 +94,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
  
 </details>
 
+-->
 
 ## 👨‍💻 <i> My Handles </i>
 
