@@ -2,11 +2,17 @@
  
 # <i>Problem-Solving</i>
 
+```
+This is a repository where I upload data structures & algorithm study history as well as coding contest participation records.
+You can see my study and contest histories.
+Also, feel free to use the pseudocode of algorithms I have uploaded in this repository
+```
+
  ## <i> Navigations
 
 | Name | Info |
 | :-----------: | :-----------: |
-| 🧙 Data Structures & Algorithms List | 1 DS/A Absorbed |
+| 🧙 Data Structures & Algorithms List | - |
 | 🏃‍♂️ CP Contests | 14 Contests Participated |
 | 👨‍💻 My Handles | Codeforces [▶️](https://codeforces.com/profile/sehyun_0x1D) / Atcoder [▶️](https://atcoder.jp/users/sehyun_0x1D) / Leetcode [▶️](https://leetcode.com/SehyunPark/) <br> BOJ [▶️](https://www.acmicpc.net/user/harry0558) / solved.ac [▶️](https://solved.ac/profile/harry0558) / solved.ac Arena [▶️](https://solved.ac/profile/harry0558/arena)|
  
