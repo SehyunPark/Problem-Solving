@@ -121,10 +121,11 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| 🏅 Platinum V 🆙 (Current) | 24/04/28 | 1137 Solved |
 | 1100 Solved 📈 | 24/03/26 | 1100 Solved |
 | Class 4 ✅ | 24/01/15 | 1003 Solved |
 | 1000 Solved 📈 | 24/01/15 | 1000 Solved |
-| 🥇 Gold I 🆙 (Current Tier) | 23/12/31  | 956 Solved |
+| 🥇 Gold I 🆙 | 23/12/31  | 956 Solved |
 | Class 3+ ✅ | 23/12/13 | 918 Solved |
 | 900 Solved 📈 | 23/12/03 | 903 Solved |
 | 800 Solved 📈 | 23/08/13 | 800 Solved |
@@ -138,6 +139,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | 🥈 Silver II 🆙 | 22/08 | 170 Solved |
 | 🥈 Silver III 🆙 | 22/08 | 140 Solved |
 | 🥈 Silver IV 🆙 | 22/08 | 70 Solved |
+| 🥈 Silver V 🆙 | 22/08 | 50 Solved |
 
 </div>
  
