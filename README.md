@@ -50,10 +50,6 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | LeetCode | x | - | None | - |
 | solved.ac | 1639 | S | 12 | [▶️](https://solved.ac/profile/harry0558/arena) |
 
-
-
-<br>
-
 <!--
 
 | No. | Name | Host | Date | Result | Solved | Rating | Info |
@@ -95,7 +91,6 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 </details>
 
 -->
-
 ## 👨‍💻 My Handles
 
 <div align="center">
