@@ -137,6 +137,7 @@
 | 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🏘️ Euler Sieve | 24/04/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/339) | Algorithm |
+| 🍣 Fibonacci Sequence | 24/06/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/350) | Algorithm |
 | 🥇 Math & Geometry Advanced I | 24/04/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/340) | 1 Solved |
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 8 Solved |
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved |
