@@ -116,6 +116,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
+| 1200 Solved 📈 | 24/07/01 | 1200 Solved |
 | 🏅 Platinum V 🆙 (Current) | 24/04/28 | 1137 Solved |
 | 1100 Solved 📈 | 24/03/26 | 1100 Solved |
 | Class 4 ✅ | 24/01/15 | 1003 Solved |
