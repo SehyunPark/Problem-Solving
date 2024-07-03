@@ -93,7 +93,9 @@
 | 📲 Divide & Conquer | 24/06/08 | Completed ✔️  | [▶️](https://sh-avid-learner.tistory.com/266) | Algorithm |
 | 🗼 Tower of Hanoi | 24/04/09 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/337) | Algorithm |
 | 🧭 Recursion | 22/09/27 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/181) | Algorithm |
+| 🏅 Divide & Conquer Expert(Easy) I | 24/06/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/351) | 1 Solved |
 | 🥇 Backtracking Upper-Advanced I | 24/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/327) | 1 Solved |
+| 🥇 Divide & Conquer Upper-Advanced I | 24/07/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/352) | 7 Solved |
 | 🥇 Backtracking Advanced I | 24/01/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/326) | 3 Solved |
 | 🥇 Divide & Conquer Advanced I | 24/06/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/349) | 5 Solved |
 | 🥈 Backtracking Upper-Intermediate I | 24/01/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/325) | 8 Solved |
@@ -138,7 +140,6 @@
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
 | 🏘️ Euler Sieve | 24/04/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/339) | Algorithm |
 | 🍣 Fibonacci Sequence | 24/06/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/350) | Algorithm |
-| 🏅 Math & Geometry Expert(Easy) I | 24/06/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/351) | 1 Solved |
 | 🥇 Math & Geometry Advanced I | 24/04/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/340) | 1 Solved |
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 8 Solved |
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved |
