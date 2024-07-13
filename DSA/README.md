@@ -119,7 +119,7 @@
 | 🤑 Greedy | 22/09/12 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/175) | Algorithm |
 | 🥇 Greedy Upper-Advanced I | 23/10/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/303) | 1 Solved |
 | 🥇 Sorting Advanced I | 23/07/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/287) | 5 Solved |
-| 🥇 Greedy Advanced I | 23/08/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/299) | 4 Solved |
+| 🥇 Greedy Advanced I | 23/08/30 | In Progress | [▶️](https://sh-avid-learner.tistory.com/299) | 5 Solved |
 | 🥈 Sorting Upper-Intermediate I | 22/12/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/221) | 6 Solved |
 | 🥈 Greedy Upper-Intermediate I | 23/01/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/245) | 4~ Solved |
 | 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 15 Solved |
