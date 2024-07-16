@@ -124,8 +124,8 @@
 | 🥈 Greedy Upper-Intermediate I | 23/01/27 | In Progress | [▶️](https://sh-avid-learner.tistory.com/245) | 4~ Solved |
 | 🥈 Sorting Intermediate I | 22/11/20 | In Progress | [▶️](https://sh-avid-learner.tistory.com/205) | 15 Solved |
 | 🥈 Greedy Intermediate II <br> 🥈 Greedy Intermediate I | 23/08/20 <br> 22/12/05 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/297) <br> [▶️](https://sh-avid-learner.tistory.com/211) | 8 Solved <br> 20 Solved |
-| 🥉 Sorting Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 8 Solved |
-| 🥉 Greedy Beginner I | 22/12/02 | In Progress | [▶️](https://sh-avid-learner.tistory.com/210) | 9 Solved |
+| 🥉 Sorting Upper-Beginner I | 22/11/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/201) | 8 Solved |
+| 🥉 Greedy Upper-Beginner I | 22/12/02 | In Progress | [▶️](https://sh-avid-learner.tistory.com/210) | 9 Solved |
 </div>
 
 ## ➕ Math / Geometry / Combinatorics / Number Theory / Primality Test
