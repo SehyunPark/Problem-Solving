@@ -23,8 +23,9 @@
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
 | Diameter of Tree | // |  | [▶️]() | Algorithm |
+| 🎊 Binary Heap | 24/07/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/247) | Data Structure |
+| 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
 | 📚 Set & Map | 23/08/03 | Soon will be Reviewed | [▶️](https://sh-avid-learner.tistory.com/289) | Data Structure |
 | 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
