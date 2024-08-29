@@ -15,7 +15,7 @@
 | 🥇 DP Upper-Advanced I | 24/01/05 | In Progress | [▶️](https://sh-avid-learner.tistory.com/316) | 8 Solved |
 | 🥇 DP Advanced I | 23/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/231) | 4 Solved |
 | 🥈 DP Upper-Intermediate I | 23/01/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/227) | 15 Solved |
-| 🥈 DP Intermediate II <br> 🥈 DP Intermediate I | 24/05/26 <br> 22/12/22 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/345) <br> [▶️](https://sh-avid-learner.tistory.com/225) | 1 Solved <br> 20 Solved |
+| 🥈 DP Intermediate II <br> 🥈 DP Intermediate I | 24/05/26 <br> 22/12/22 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/345) <br> [▶️](https://sh-avid-learner.tistory.com/225) | 2 Solved <br> 20 Solved |
 </div>
 
 ## 🗃️ Data Structures
@@ -166,10 +166,10 @@
 | 🥇 Brute-Force Advanced I | 23/10/06 | In Progress | [▶️](https://sh-avid-learner.tistory.com/301) | 3 Solved |
 | 🥇 Implementation&Simulation Advanced I | 24/01/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/328) | 5 Solved |
 | 🥈 Regular Expression Upper + Intermediate | 23/08/14 | In Progress | [▶️](https://sh-avid-learner.tistory.com/293) | 3 Solved |
-| 🥈 Brute-Force Upper-Intermediate | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
+| 🥈 Brute-Force Upper-Intermediate I | 23/10/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/304) | 2 Solved |
 | 🥈 Implementation&Simulation Upper-Intermediate I | 24/01/08 | In Progress | [▶️](https://sh-avid-learner.tistory.com/320) | 3 Solved |
 | 🥈 Brute-Force Intermediate I | 22/11/21 | In Progress | [▶️](https://sh-avid-learner.tistory.com/206) | 14 Solved |
-| 🥈 Implementation&Simulation Intermediate I | 22/11/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/209) | 19 Solved |
+| 🥈 Implementation&Simulation Intermediate II <br> 🥈 Implementation&Simulation Intermediate I | 24/08/29 <br> 22/11/28 | In Progress <br> Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/355) <br> [▶️](https://sh-avid-learner.tistory.com/209) | 2 Solved <br> 20 Solved |
 | 🥉 Brute-Force Upper-Beginner I | 22/10/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/188) | 16 Solved |
 | 🥉 Implementation&Simulation Upper-Beginner I | 22/11/03 | In Progress | [▶️](https://sh-avid-learner.tistory.com/193) | 25 Solved |
 | 🥉 Implementation Beginner I <br> 🥉 Implementation Beginner II <br> 🥉 Implementation Beginner III | 22/08/22 <br> 22/10/10 <br> 22/10/28 | Completed ✔️ <br> Completed ✔️ <br> In Progress | [▶️](https://sh-avid-learner.tistory.com/164) <br> [▶️](https://sh-avid-learner.tistory.com/186) <br> [▶️](https://sh-avid-learner.tistory.com/192) |  50 Solved <br> 50 Solved <br>  39 Solved |
