@@ -135,7 +135,7 @@
 
 | Posting Title | Posting Date | Progress | Links | Etc. |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🫂 Prefix Sum | 23// |  | [▶️](https://sh-avid-learner.tistory.com/239) | Algorithm |
+| 🫂 Prefix Sum | 24/09/06 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/239) | Algorithm |
 | 🦜 Pigeonhole Principle | 24/02/02 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/329) | Algorithm |
 | 🚡 Next Permutation / Previous Permutation | 23/08/16 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/296) | Algorithm |
 | 👐 Primality Test | 23/08/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/290) | Algorithm |
@@ -145,6 +145,7 @@
 | 🥈 Number Theory Upper-Intermediate I | 23/02/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/262) | 8 Solved |
 | 🥈 Combinatorics Upper-Intermediate I | 23/08/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/295) | 4 Solved |
 | 🥈 Math & Geometry Upper-Intermediate I | 23/01/26 | In Progress | [▶️](https://sh-avid-learner.tistory.com/244) | 4 Solved |
+| 🥈 Prefix Sum Upper + Intermediate I | 23/01/18 | In Progress | [▶️](https://sh-avid-learner.tistory.com/240) | 7 Solved |
 | 🥈 Number Theory Intermediate I | 22/12/13 | In Progress | [▶️](https://sh-avid-learner.tistory.com/219) | 17 Solved | 
 | 🥈 Combinatorics Intermediate I | 23/02/16 | In Progress | [▶️](https://sh-avid-learner.tistory.com/254) | 5 Solved |
 | 🥈 Math & Geometry Intermediate I | 22/11/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/207) | 13 Solved |
