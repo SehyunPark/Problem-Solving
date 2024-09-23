@@ -27,7 +27,7 @@
 | 🎊 Binary Heap | 24/07/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/247) | Data Structure |
 | 🌲 Binary Tree | 23/12/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/306) | Data Structure |
 | 📚 Set & Map | 23/08/03 | Soon will be Reviewed | [▶️](https://sh-avid-learner.tistory.com/289) | Data Structure |
-| 🌉 Monotone Stack | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🌉 Monotonic Stack | 24/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/358) | Algorithm |
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
 | 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
