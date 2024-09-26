@@ -29,7 +29,8 @@
 | 📚 Set & Map | 23/08/03 | Soon will be Reviewed | [▶️](https://sh-avid-learner.tistory.com/289) | Data Structure |
 | 🌉 Monotonic Stack | 24/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/358) | Algorithm |
 | 🍔 Stack & Queue & Deque | 22/09/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/179) | Data Structure |
-| 🥪 Array & Linked List | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
+| ➡️ Linked List | 24/09/26 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/359) | Data Structure |
+| 🥪 Array & Linked List Intro | 24/01/08 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/319) | Data Structure |
 | 🥇 Tree Advanced I | 23/12/22 | In Progress | [▶️](https://sh-avid-learner.tistory.com/309) | 1 Solved |
 | 🥇 Stack & Queue & Deque Advanced I | 24/02/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/334) | 1 Solved |
 | 🥈 Tree Upper-Intermediate I | 23/12/19 | In Progress | [▶️](https://sh-avid-learner.tistory.com/307) | 3 Solved |
