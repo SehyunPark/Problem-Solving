@@ -42,7 +42,7 @@
 </div>
 
 
-## 👀 Binary Search / Two Pointers
+## 👀 Binary Search / Two Pointers + Sliding Window
 <div align="center", class="boj">
   
 | Posting Title | Posting Date | Progress | Links | Etc. |
@@ -51,11 +51,12 @@
 | 🔬 Parametric Search | 23/12/31 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/313) | Algorithm |
 | 🔸 Coordinate Compression | 23/01/24 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/242) | Algorithm |
 | 🍡 Two Pointers | 24/02/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/332) | Algorithm |
-| Sliding Window | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
+| 🏂 Sliding Window | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | Meet in the Middle | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
 | 🥇 Binary Search Advanced I | 23/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/311) | 2 Solved |
 | 🥇 Coordinate Compression Advanced | 23/12/28 | In Progress | [▶️](https://sh-avid-learner.tistory.com/310) | 2 Solved |
 | 🥇 Two Pointers Advanced I | 24/02/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/331) | 9 Solved |
+| 🥈 Sliding Window Upper + Intermediate | 24/10/07 | In Progress | [▶️](https://sh-avid-learner.tistory.com/360) | 1 Solved |
 | 🥈 Binary Search Upper-Intermediate I | 23/02/09 | In Progress | [▶️](https://sh-avid-learner.tistory.com/250) | 4 Solved |
 | 🥈 Coordinate Compression Upper-Intermediate | 23/01/24 | In Progress | [▶️](https://sh-avid-learner.tistory.com/243) | 3 Solved |
 | 🥈 Two Pointers Upper-Intermediate I | 24/02/11 | In Progress | [▶️](https://sh-avid-learner.tistory.com/330) | 5 Solved |
