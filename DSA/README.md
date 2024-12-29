@@ -80,7 +80,7 @@
 | 🏅 Bipartite Graph & Matching Expert(Easy) | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |
 | 🥇 Bipartite Graph & Matching Upper-Advanced | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |
 | 🥇 Graph Algorithms Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |
-| 🥇 Topology Sort Advanced | 24/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/361) |
+| 🥇 Topology Sort Advanced | 24/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/384) |
 | 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |
 | 🥇 BFS&DFS Advanced I | 23/12/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/305) |
 | 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/342) |
