@@ -67,23 +67,24 @@
 ## 🔍 Graph
 <div align="center", class="boj">
   
-| Posting Title | Posting Date | Progress | Links | Etc. |
-| :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 🔍 BFS&DFS | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | Algorithm |
-| ⛆ Flood Fill | 24/05/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/343) | Algorithm |
-| 🛣️ Shortest Path in an Unweighted Graph | 24/05/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/344) | Algorithm |
-| 🥓 Bipartite Graph | 23/12/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/308) | Algorithm |
+| Posting Title | Posting Date | Progress | Links |
+| :--------: | :-----------: | :-----------: | :-----------: |
+| 🔍 BFS&DFS | 22/10/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/187) | 
+| ⛆ Flood Fill | 24/05/19 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/343) | 
+| 🛣️ Shortest Path in an Unweighted Graph | 24/05/23 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/344) | 
+| 🥓 Bipartite Graph | 23/12/21 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/308) |
 | ➰ Bipartite Matching | 24// |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/321) | Algorithm |
-| 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) | Algorithm |
-| 🎢 Topology Sort | 24/10/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/361) | Algorithm |
-| 🏅 Bipartite Graph & Matching Expert(Easy) | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 Bipartite Graph & Matching Upper-Advanced | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 Graph Algorithms Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |  Solved |
-| 🥇 BFS&DFS Advanced I | 23/12/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/305) | 13 Solved |
-| 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/342) | 16 Solved |
-| 🥈 BFS&DFS Intermediate I | 23/02/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/255) | 20 Solved |
+| 🧿 Dijkstra's (Shortest Path) Algorithm | 24/01/14 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/321) |
+| 🎉 Floyd-Warshall | // |  | [▶️](https://sh-avid-learner.tistory.com/) |
+| 🎢 Topology Sort | 24/10/11 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/361) |
+| 🏅 Bipartite Graph & Matching Expert(Easy) | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |
+| 🥇 Bipartite Graph & Matching Upper-Advanced | 24// | In Progress | [▶️](https://sh-avid-learner.tistory.com/) |
+| 🥇 Graph Algorithms Upper-Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |
+| 🥇 Topology Sort Advanced | 24/12/29 | In Progress | [▶️](https://sh-avid-learner.tistory.com/361) |
+| 🥇 Graph Algorithms Advanced I |  |  | [▶️](https://sh-avid-learner.tistory.com/) |
+| 🥇 BFS&DFS Advanced I | 23/12/15 | In Progress | [▶️](https://sh-avid-learner.tistory.com/305) |
+| 🥈 BFS&DFS Upper-Intermediate I | 23/02/17 | In Progress | [▶️](https://sh-avid-learner.tistory.com/342) |
+| 🥈 BFS&DFS Intermediate I | 23/02/17 | Completed ✔️ | [▶️](https://sh-avid-learner.tistory.com/255) |
 </div>
 
 
