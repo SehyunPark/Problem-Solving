@@ -117,25 +117,25 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | Accomplished | Date | Solved(At the moment) |
 | :--------: | :-----------: | :-----------: |
 | 1200 Solved 📈 | 24/07/01 | 1200 Solved |
-| 🏅 Platinum V 🆙 (Current) | 24/04/28 | 1137 Solved |
+| 🏅 Platinum V 👆🏻 (Current) | 24/04/28 | 1137 Solved |
 | 1100 Solved 📈 | 24/03/26 | 1100 Solved |
 | Class 4 ✅ | 24/01/15 | 1003 Solved |
 | 1000 Solved 📈 | 24/01/15 | 1000 Solved |
-| 🥇 Gold I 🆙 | 23/12/31  | 956 Solved |
+| 🥇 Gold I 👆🏻 | 23/12/31  | 956 Solved |
 | Class 3+ ✅ | 23/12/13 | 918 Solved |
 | 900 Solved 📈 | 23/12/03 | 903 Solved |
 | 800 Solved 📈 | 23/08/13 | 800 Solved |
-| 🥇 Gold II 🆙 | 23/08/09  | 795 Solved |
-| 🥇 Gold III 🆙 | 23/02/05 | 616 Solved |
-| 🥇 Gold IV 🆙 | 23/01/05 | 520 Solved |
-| 🥇 Gold V 🆙 | 22/11/22 | 386 Solved |
+| 🥇 Gold II 👆🏻 | 23/08/09  | 795 Solved |
+| 🥇 Gold III 👆🏻 | 23/02/05 | 616 Solved |
+| 🥇 Gold IV 👆🏻 | 23/01/05 | 520 Solved |
+| 🥇 Gold V 👆🏻 | 22/11/22 | 386 Solved |
 | Bronze IV ALL-SOLVED ⭕ | 22/11/16 | 378 Solved |
 | Bronze V ALL-SOLVED ⭕ | 22/09 | 300 Solved |
-| 🥈 Silver I 🆙 | 22/09 | 210 Solved |
-| 🥈 Silver II 🆙 | 22/08 | 170 Solved |
-| 🥈 Silver III 🆙 | 22/08 | 140 Solved |
-| 🥈 Silver IV 🆙 | 22/08 | 70 Solved |
-| 🥈 Silver V 🆙 | 22/08 | 50 Solved |
+| 🥈 Silver I 👆🏻 | 22/09 | 210 Solved |
+| 🥈 Silver II 👆🏻 | 22/08 | 170 Solved |
+| 🥈 Silver III 👆🏻 | 22/08 | 140 Solved |
+| 🥈 Silver IV 👆🏻 | 22/08 | 70 Solved |
+| 🥈 Silver V 👆🏻 | 22/08 | 50 Solved |
 
 </div>
  
