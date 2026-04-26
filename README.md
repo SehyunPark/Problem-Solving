@@ -14,7 +14,7 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | :-----------: | :-----------: |
 | 🧙 Data Structures & Algorithms List | - |
 | 🏃‍♂️ Coding Competitions | 22 Contests Participated |
-| 👨‍💻 My Handles | Codeforces [▶️](https://codeforces.com/profile/sehyun_0x1D) / Atcoder [▶️](https://atcoder.jp/users/sehyun_0x1D) / Leetcode [▶️](https://leetcode.com/SehyunPark/) <br> BOJ [▶️](https://www.acmicpc.net/user/harry0558) / solved.ac [▶️](https://solved.ac/profile/harry0558) / solved.ac Arena [▶️](https://solved.ac/profile/harry0558/arena)|
+| 👨‍💻 My Handles | Codeforces [▶️](https://codeforces.com/profile/sehyun_0x1D) / Atcoder [▶️](https://atcoder.jp/users/sehyun_0x1D) / Leetcode [▶️](https://leetcode.com/SehyunPark/) <br> BOJ [▶️](https://www.acmicpc.net/user/harry0558) / solved.ac [▶️](https://solved.ac/profile/harry0558) |
  
 <div align="center">
 
@@ -48,7 +48,6 @@ Also, feel free to use the pseudocode of algorithms I have uploaded in this repo
 | Codeforces | 1021 | Newbie | 3 | [▶️](https://codeforces.com/profile/sehyun_0x1D) |
 | Atcoder | 564 | 8 Kyu| 7 | [▶️](https://atcoder.jp/users/sehyun_0x1D) |
 | LeetCode | x | - | None | - |
-| solved.ac | 1639 | S | 12 | [▶️](https://solved.ac/profile/harry0558/arena) |
 
 <!--
 
